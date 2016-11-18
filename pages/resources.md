@@ -66,7 +66,7 @@ Economics Majors have access to internship opportunities through the Economics s
 
 Graduating seniors majoring in Economics (CLA or Fox)  or Mathematical Economics (CLA or CST) are eligible to be considered for the Sun Award in Economics for outstanding achievements as an undergraduate economics major.  For more details, contact the Economic Faculty Advisor.
 
-- Changing your major: Contact CLA Advising for the CLA and CST majors and Fox Advising for the FSBM major
-- Graduation Application process: Contact CLA Advising for the CLA and CST majors and Fox Advising for the FSBM major
-- Financing your Education: Contact Student Financial Services
-- Policies: Information on University policies for undergraduates is available at  Undergraduate Policies.
+- Changing your major: Contact [CLA Advising[(http://www.cla.temple.edu/advising/) for the CLA and CST majors and [Fox Advising](http://www.fox.temple.edu/cms_academics/dept/advising/) for the FSBM major
+- Graduation Application process: Contact [CLA Advising](http://www.cla.temple.edu/advising/)for the CLA and CST majors and [Fox Advising](http://www.fox.temple.edu/cms_academics/dept/advising/) for the FSBM major
+- Financing your Education: Contact [Student Financial Services](http://www.temple.edu/sfs/)
+- Policies: Information on University policies for undergraduates is available at [Undergraduate Policies](http://bulletin.temple.edu/undergraduate/academic-policies/).
