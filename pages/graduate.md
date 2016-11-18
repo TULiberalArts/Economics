@@ -28,7 +28,7 @@ Program Requirements (Grad Bulletin), Student Handbook
 ## Ph.D in Economics
 The Ph.D. in economics is designed to prepare the student for university teaching and research, and for positions as economists in government, business and industry. The program emphasizes the development of advanced research and scholarship skills in applied economics areas. To accomplish this, the program has fields in econometrics, economic development, industrial organization, international economics, financial economics, and labor economics. The program has a strong track record in placing its graduates in desirable positions.
 
-## Program Requirements (Grad Bulletin), Student Handbook
+[Program Requirements](http://bulletin.temple.edu/graduate/scd/cla/economics-ma/)(Grad Bulletin), [Student Handbook](http://www.cla.temple.edu/economics/files/2013/08/Economics_MA_Handbook.pdf) 
 
 ## Curriculum
 
