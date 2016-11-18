@@ -42,7 +42,8 @@ Admission requirements to the Economics graduate programs follow the general req
 
 We do not require a BA in Economics, but intermediate economic theory and econometrics are strongly recommended. Students must be comfortable with multivariate calculus and matrix algebra; this typically means they must have successfully taken 3rd semester calculus and linear algebra.
 
-- Graduate Resources
+## Graduate Resources
+
 - Graduate Forms
 - Graduate School Funding 
 - Graduate School Policies 
