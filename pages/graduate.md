@@ -25,7 +25,7 @@ The Department of Economics offers full-time and part-time graduate programs lea
 
 The MA in Economics prepares the student to understand contemporary economic theory and its application to problems arising in industry, business, and government. The program gives the student an opportunity to specialize in one of two areas: (a) general economics or (b) applied economics and financial markets. The program is primarily dedicated to producing well-trained researchers and managers in the field of Economics. Many students go on to enter Ph.D. programs.
 
-[Program Requirements](http://bulletin.temple.edu/graduate/scd/cla/economics-ma/)(Grad Bulletin),  [Student Handbook (http://www.cla.temple.edu/economics/files/2013/08/Economics_MA_Handbook.pdf) 
+[Program Requirements](http://bulletin.temple.edu/graduate/scd/cla/economics-ma/)(Grad Bulletin), [Student Handbook] (http://www.cla.temple.edu/economics/files/2013/08/Economics_MA_Handbook.pdf) 
 
 ## Ph.D in Economics
 
