@@ -39,4 +39,10 @@ View a full list of Courses you can expect to take within the MA or Ph.D. Econom
 Admission requirements to the Economics graduate programs follow the general requirements established by the Graduate School at Temple University. Visit the Graduate Bulletin website for more information on the admissions process.
 
 ## Departmental Requirements
+
 We do not require a BA in Economics, but intermediate economic theory and econometrics are strongly recommended. Students must be comfortable with multivariate calculus and matrix algebra; this typically means they must have successfully taken 3rd semester calculus and linear algebra.
+
+- Graduate Resources
+- Graduate Forms
+- Graduate School Funding 
+- Graduate School Policies 
