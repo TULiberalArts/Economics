@@ -31,7 +31,19 @@ When you are ready to apply, submit your application online at admissions.temple
 
 ## Undergraduate Resources
 
-## Careers
+## Careers 
+
+Graduates with an undergraduate major in economics, whether it is the liberal arts or the business major, will find that it has prepared them for a broad spectrum of jobs in business, economic consulting and government.  The reason is that courses in economics emphasize using an orderly way of thinking about, and solving, problems that arise from having to make choices in situations that are beyond an individual’s direct experience.  The abstract reasoning skills that are practiced in economics are highly valued where choosing efficiently in coordination with others is important. Everyone has to have the same basic problem-solving approach and economic training provides that.
+
+Thus, in business, a major problem that companies face is to earn at least enough to cover their costs. That means they have to have people at managerial levels who are focused on increasing a company’s revenues or decreasing its cost.  And these people need to be able to operate on their own using a common framework so that their decisions are compatible with those of others in the company. In business, that common framework is the economic decision-making framework.
+Similarly, in government, managers are required to achieve as much as they can with their limited budgets.  And, of course, economic consulting firms bring specialized skills in problem solving that are beyond the capabilities of individual companies or government agencies.
+
+## Specific Examples
+
+Several Temple graduates have been employed by companies to work in the area of providing finance to the company’s customers. Automobile companies are an obvious example. But, even companies not associated with financing problems such as General Electric, which has hired several graduates of Temple’s economics department, generate a substantial amount of revenue by providing financial services.
+In many cases, the skills acquired are used in ways a student might not anticipate.  For example, one of our recent graduates starting out working on a large data base in the trade statistics division of an international trade agency in the Federal Government. After several months, the student got a data-base management position with a company that paid substantially more than the government job.
+
+Another student got a job with a software company debugging software.  While the job did not require knowing any specific economics, it did require a lot of skill in orderly thinking.  And the student’s background in economics provided a lot of practice in that skill.
 Individuals with a degree in Economics enter careers/graduate programs in many areas. Economics is a good preparation for careers in public policy, law and business.  The BA major, which also provides the essential background for study of Economics, is designed for those who are planning for careers in Economics, among other Liberal Arts fields, as well as professional careers. The BBA major is offered to students who want to acquire a general business background in addition to specialized exposure to Economics. Learn more about careers in economics.
 
 What a few of our recent alumni are doing:
@@ -69,3 +81,23 @@ Graduating seniors majoring in Economics (CLA or Fox)  or Mathematical Economics
 - Graduation Application process: Contact [CLA Advising](http://www.cla.temple.edu/advising/) for the CLA and CST majors and [Fox Advising](http://www.fox.temple.edu/cms_academics/dept/advising/) for the FSBM major
 - Financing your Education: Contact [Student Financial Services](http://www.temple.edu/sfs/)
 - Policies: Information on University policies for undergraduates is available at [Undergraduate Policies](http://bulletin.temple.edu/undergraduate/academic-policies/).
+
+## Graduate Resources
+
+Job candidates
+
+In the 2015–2016 academic year, our candidates on the academic job market are as follows.
+
+Keshar M. Ghimire
+Fields: Labor economics, Econometrics
+Dissertation title: Essays in Labor Economics
+Personal website: http://sites.temple.edu/kesharghimire/
+CV: http://sites.temple.edu/kesharghimire/cv/
+Dissertation committee chair: Douglas Webber
+
+David Song
+Fields: Development Economics, International Economics, Macroeconometrics
+Dissertation Title: Three Essays on Economic Growth in Singapore
+Personal website: http://sites.temple.edu/davidsong26/
+CV: David-Song-CV
+Dissertation Committee Chair: Fyodor Kushnirsky
