@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Home
+permalink: "/"
+layout: page
 ---
 
 Economics is a way of thinking that provides insights into all facets of our personal and professional lives, improving our understanding of the world and our own decision-making. 
