@@ -1,7 +1,8 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate"
+permalink: /undergraduate
 layout: page
+published: true
 ---
 
 The major in economics will expose you to the economist's way of thinking about social problems and behavior.
@@ -28,13 +29,13 @@ Students seeking research experience may work directly  with specific faculty me
 
 ## Academic offerings
 
- - BA in Economics
- - BA in Mathematical Economics
- - Minor in Economics
- - MA in Economics
- - PhD in Economics
- - Management Career Certificate
- - Political Economy Certificate
+ - [BA in Economics](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/ba-economics/)
+ - [BA in Mathematical Economics](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/ba-mathematical-economics/)
+ - [Minor in Economics](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/minor-economics/)
+ - [MA in Economics](http://bulletin.temple.edu/graduate/scd/cla/economics-ma/)
+ - [PhD in Economics](http://bulletin.temple.edu/graduate/scd/cla/economics-phd/)
+ - [Management Career Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/management-career-certificate/)
+ - [Political Economy Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/certificate-political-economy/)
  - 4+1 BA and Master’s in Economics
 
 ## Program Overview
