@@ -1,7 +1,8 @@
 ---
 title: Graduate
-permalink: "/graduate"
+permalink: /graduate
 layout: page
+published: true
 ---
 
 Our master’s degree in economics helps students understand contemporary economic theory and its application to problems in industry, business and government. Students can focus on a specific area of economics or follow a general course of study. Potential areas of specialization include: econometrics, financial economics, health economics, international monetary economics and labor economics. The program provides specialized study and can serve as a terminal degree or a foundation for those who intend to apply to the PhD program.
@@ -12,8 +13,8 @@ The PhD in economics will prepare you to teach or research in university setting
 
 ## Academic offerings
 
-- MA in Economics
-- PhD in Economics
+- [MA in Economics](http://bulletin.temple.edu/graduate/scd/cla/economics-ma/)
+- [PhD in Economics](http://bulletin.temple.edu/graduate/scd/cla/economics-phd/)
 
 ## Program Overview
 
@@ -142,4 +143,4 @@ For students who have yet to complete their coursework, full-time study means th
 Once Ph.D. students have completed their required coursework, they need to take only the one-credit dissertation seminar to maintain full-time status. 
 
 - When and where are classes offered?
-To accommodate part-time students with “day jobs” and full-time students with teaching responsibilities, classes are offered once a week, from 5:30 to 8:00 pm.  Unless otherwise noted, all classes are offered on the Main Campus. 
+To accommodate part-time students with “day jobs” and full-time students with teaching responsibilities, classes are offered once a week, from 5:30 to 8:00 pm.  Unless otherwise noted, all classes are offered on the Main Campus.
