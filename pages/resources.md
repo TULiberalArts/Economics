@@ -103,3 +103,12 @@ Dissertation Title: Three Essays on Economic Growth in Singapore
 - Personal website: [http://sites.temple.edu/davidsong26/](http://sites.temple.edu/davidsong26/) 
 - CV: David-Song-CV
 - Dissertation Committee Chair: Fyodor Kushnirsky
+
+## Opportunities and Compensation in Economics
+
+### Most Popular College Degrees Earned By Millionaires
+
+- Pay by major from the Wall Street Journal: [Excel spreadsheet](http://www.cla.temple.edu/economics/files/2013/08/Undergraduate-Major-and-Pay.pdf)
+- Pay by major from [CNN Money](http://money.cnn.com/2006/02/13/pf/college/starting_salaries/index.htm).
+- People making up the Top 1% in earnings from the [New York Times](http://economix.blogs.nytimes.com/2012/01/18/what-the-top-1-of-earners-majored-in/).
+- A [presentation](http://www.cla.temple.edu/economics/files/2013/08/Revised-Freshman-Seminar-Econ-Presentationbognanno2011.ppt) on opportunities for Economics Majors.
