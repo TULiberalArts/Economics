@@ -44,7 +44,7 @@
   photo: "http://www.cla.temple.edu/economics/files/2013/05/bowman.jpg"
   expertise: "Microeconomics, Industrial organization, Antitrust, Regulation, Privatization"
   bio: >
-    Gary W. Bowman has taught courses from the introductory to the PH.D. level since coming to Temple in 1973 from the Brookings Institution. His research areas include applied microeconomics, industrial organization, antitrust, regulation, and privatization. He has been principal investigator for grants from the National Science Foundation and the United States Department of Commerce and has published approximately thirty articles, chapters, and edited books."
+    Gary W. Bowman has taught courses from the introductory to the PH.D. level since coming to Temple in 1973 from the Brookings Institution. His research areas include applied microeconomics, industrial organization, antitrust, regulation, and privatization. He has been principal investigator for grants from the National Science Foundation and the United States Department of Commerce and has published approximately thirty articles, chapters, and edited books.
 
 - name: "Brantly Callaway"
   title: <i>Assistant Professor</i> 
@@ -56,7 +56,7 @@
   photo: "http://www.cla.temple.edu/economics/files/2016/09/Callaway2016small-244x300.jpg"
   expertise: "Microeconometrics, Econometrics, Labor Economics"
   bio: >
-    Brantly Callaway’s main research area is microeconometrics.  His research focuses on developing tools to understand the distributional effects of economic programs and policies.  He is also interested in labor economics and has studied job displacement during the Great Recession and the effect of unions on inequality in the 1950s. Dr. Callaway joined the Economics Department in 2016 after completing his Ph.D. at Vanderbilt University.  He also holds a B.S. in Computer Science from Georgia Tech, an M.S. in Economics from Georgia Tech, and an M.A. in Economics from Vanderbilt."
+    Brantly Callaway’s main research area is microeconometrics.  His research focuses on developing tools to understand the distributional effects of economic programs and policies.  He is also interested in labor economics and has studied job displacement during the Great Recession and the effect of unions on inequality in the 1950s. Dr. Callaway joined the Economics Department in 2016 after completing his Ph.D. at Vanderbilt University.  He also holds a B.S. in Computer Science from Georgia Tech, an M.S. in Economics from Georgia Tech, and an M.A. in Economics from Vanderbilt.
 
 - name: "Dimitrios Diamantaras"
   title: <i>Associate Professor, Director of Graduate Studies</i> 
@@ -144,7 +144,7 @@
 
 - name: "Catherine Maclean"
   title: <i>Associate Professor</i> 
-  room: "869 "
+  room: "869"
   building: "Ritter Annex"
   email: "zach.smith@temple.com"
   phone: "2152040560"
@@ -176,7 +176,7 @@
   photo: "http://www.cla.temple.edu/economics/files/2015/04/Pedro-Headshot.jpg-300x242.jpeg"
   expertise: "Macroeconomics, Labor Economics"
   bio: >
-    Pedro Silos joined the Department of Economics at Temple University in the Fall of 2015. His major research areas are macroeconomics and labor economics. In particular, he has focused on the aggregate implications of labor market dynamics, the cyclical behavior of income shares, and the pricing of risk in the labor market, among other topics. Prior to joining Temple, he spent ten years as a research economist at the Federal Reserve Bank of Atlanta. He received his doctorate in economics in 2005 from the University of Iowa and his master's degree in economics from the University of Virginia."
+    Pedro Silos joined the Department of Economics at Temple University in the Fall of 2015. His major research areas are macroeconomics and labor economics. In particular, he has focused on the aggregate implications of labor market dynamics, the cyclical behavior of income shares, and the pricing of risk in the labor market, among other topics. Prior to joining Temple, he spent ten years as a research economist at the Federal Reserve Bank of Atlanta. He received his doctorate in economics in 2005 from the University of Iowa and his master's degree in economics from the University of Virginia.
 
 - name: "John A Sorrentino"
   title: <i>Associate Professor, Coordinator at Ambler Campus</i> 
@@ -226,39 +226,38 @@
   bio: >
     Dai Zusai joined the department in the fall of 2011. He received his BA and a MA in economics from the University of Tokyo and his MSc and PhD in economics from the University of Wisconsin-Madison. His research focuses on microeconomic theory and game theory, particularly evolutionary dynamics of boundedly rational agents and theory of product market competition and financial contracts.
 
- name: "YoungJin Choi"
- title: <i>Assistant Professor of Instruction</i> 
- room: "824(004-04)"
- building: "Ritter Annex"  
- email: "youngjin.choi@temple.edu"
- phone: "2152048165"
- website: ""
- photo: "http://www.cla.temple.edu/economics/files/2014/04/YoungJin.jpg-225x300.jpeg"
- expertise: "International Macroeconomics, Monetary Economics, Applied Econometrics"
- bio: >
-  Dr. Choi joined the Economics Department at Temple in 2015 after receiving her PhD from North Carolina State University. Her research is primarily focused on international macroeconomics, with her dissertation focusing on international transmissions of dynamic portfolios and monetary policy in the emerging market and the use of Bayesian techniques. 
+- name: "YoungJin Choi"
+  title: <i>Assistant Professor of Instruction</i> 
+  room: "824(004-04)"
+  building: "Ritter Annex"  
+  email: "youngjin.choi@temple.edu"
+  phone: "2152048165"
+  website: ""
+  photo: "http://www.cla.temple.edu/economics/files/2014/04/YoungJin.jpg-225x300.jpeg"
+  expertise: "International Macroeconomics, Monetary Economics, Applied Econometrics"
+  bio: >
+   Dr. Choi joined the Economics Department at Temple in 2015 after receiving her PhD from North Carolina State University. Her research is primarily focused on international macroeconomics, with her dissertation focusing on international transmissions of dynamic portfolios and monetary policy in the emerging market and the use of Bayesian techniques. 
  
- name: "William Newman"
- title: <i>Assistant Professor of Instruction</i> 
- room: "806(004-04)"
- building: "Ritter Annex"  
- email: ""
- phone: "2152041919"
- website: ""
- photo: "http://www.cla.temple.edu/economics/files/2014/08/Bill-Newman-295x300.jpg"
- expertise: "Market structure, Pricing, Incremental cost analysis"
- bio: >
-  Mr. William M. Newman (Bill) was appointed Assistant Professor of Economics in 2014. He had been an adjunct instructor of economics at Temple since 2006. Bill has an MA in Economics from Temple University, where he has completed all coursework for a Ph.D. specializing in Econometrics and Industrial Organization. Bill’s background includes a successful career as a microeconomist in the telecommunications industry, and as an expert witness testifying to microeconomic issues including competition, pricing, costs and market share in numerous proceedings in Delaware, New Jersey, Pennsylvania and Virginia. He also developed syndicated data products that have been used by the major telecommunications companies, the FCC and the Department of Justice in addressing telecommunications issues. 
+- name: "William Newman"
+  title: <i>Assistant Professor of Instruction</i> 
+  room: "806(004-04)"
+  building: "Ritter Annex"  
+  email: ""
+  phone: "2152041919"
+  website: ""
+  photo: "http://www.cla.temple.edu/economics/files/2014/08/Bill-Newman-295x300.jpg"
+  expertise: "Market structure, Pricing, Incremental cost analysis"
+  bio: >
+   Mr. William M. Newman (Bill) was appointed Assistant Professor of Economics in 2014. He had been an adjunct instructor of economics at Temple since 2006. Bill has an MA in Economics from Temple University, where he has completed all coursework for a Ph.D. specializing in Econometrics and Industrial Organization. Bill’s background includes a successful career as a microeconomist in the telecommunications industry, and as an expert witness testifying to microeconomic issues including competition, pricing, costs and market share in numerous proceedings in Delaware, New Jersey, Pennsylvania and Virginia. He also developed syndicated data products that have been used by the major telecommunications companies, the FCC and the Department of Justice in addressing telecommunications issues. 
  
- name: "Yuan Yuan"
- title: <i>Assistant Professor of Instruction</i> 
- room: "867"
- building: "Ritter Annex"  
- email: ""
- phone: "2152041865"
- website: "https://sites.google.com/site/yuanyuansimple/"
- photo: ""
- expertise: ""
- bio: >
-  Yuan Yuan received her PhD in Economics at the University of Wisonsin-Madison. She joined the Economics department at the start of the Fall 2013 semester.
- 
+- name: "Yuan Yuan"
+  title: <i>Assistant Professor of Instruction</i> 
+  room: "867"
+  building: "Ritter Annex"  
+  email: ""
+  phone: "2152041865"
+  website: "https://sites.google.com/site/yuanyuansimple/"
+  photo: ""
+  expertise: ""
+  bio: >
+   Yuan Yuan received her PhD in Economics at the University of Wisonsin-Madison. She joined the Economics department at the start of the Fall 2013 semester.
