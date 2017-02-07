@@ -11,16 +11,18 @@ For a complete list of our academic offerings visit [liberalarts.temple.edu](lib
 
 ## Visit Us
 
-The Office of Admissions offers tours daily. To register for a tour, please go to temple.edu/visit
-If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit  opportunities we have throughout the year, including the Liberal Arts Preview Day. For more information, please go to: [liberalarts.temple.edu/admissions/visit](liberalarts.temple.edu/admissions/visit) 
+The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](temple.edu/visit).
+If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit  opportunities we have throughout the year, including the Liberal Arts Preview Day. 
 
-## Thinking of transferring
+For more information, please go to: [liberalarts.temple.edu/admissions/visit](liberalarts.temple.edu/admissions/visit) 
 
-The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.   To learn more about transferring to Temple, please visit temple.edu/transfer
+## Thinking of Transferring
+
+The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible. To learn more about transferring to Temple, please visit [temple.edu/transfer](temple.edu/transfer).
 
 ## Apply
 
-When you are ready to apply, submit your application online at admissions.temple.edu/app
+When you are ready to apply, submit your application online at [admissions.temple.edu/app](admissions.temple.edu/app). 
 
 ## Deadlines
 
@@ -36,6 +38,7 @@ When you are ready to apply, submit your application online at admissions.temple
 Graduates with an undergraduate major in economics, whether it is the liberal arts or the business major, will find that it has prepared them for a broad spectrum of jobs in business, economic consulting and government.  The reason is that courses in economics emphasize using an orderly way of thinking about, and solving, problems that arise from having to make choices in situations that are beyond an individual’s direct experience.  The abstract reasoning skills that are practiced in economics are highly valued where choosing efficiently in coordination with others is important. Everyone has to have the same basic problem-solving approach and economic training provides that.
 
 Thus, in business, a major problem that companies face is to earn at least enough to cover their costs. That means they have to have people at managerial levels who are focused on increasing a company’s revenues or decreasing its cost.  And these people need to be able to operate on their own using a common framework so that their decisions are compatible with those of others in the company. In business, that common framework is the economic decision-making framework.
+
 Similarly, in government, managers are required to achieve as much as they can with their limited budgets.  And, of course, economic consulting firms bring specialized skills in problem solving that are beyond the capabilities of individual companies or government agencies.
 
 ## Specific Examples
@@ -65,7 +68,6 @@ What a few of our recent alumni are doing:
 - Dylan Garvey (2014), JP Morgan, Settlement Specialist
 - James Park (2009), Ernst & Young, Advisory Senior Consultant
 - Timothy Cornish (2014), Marsh & McLennan, Marsh TRAC Management Trainee
-
 - Other:
 Nicholas Hakun (2014), Teach for America
 
