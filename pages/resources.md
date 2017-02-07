@@ -93,13 +93,13 @@ In the 2015–2016 academic year, our candidates on the academic job market are 
 Keshar M. Ghimire
 Fields: Labor economics, Econometrics
 Dissertation title: Essays in Labor Economics
-Personal website: http://sites.temple.edu/kesharghimire/
-CV: http://sites.temple.edu/kesharghimire/cv/
-Dissertation committee chair: Douglas Webber
+- Personal website: [http://sites.temple.edu/kesharghimire/](http://sites.temple.edu/kesharghimire/)
+- CV: [http://sites.temple.edu/kesharghimire/cv/](http://sites.temple.edu/kesharghimire/cv/)
+- Dissertation committee chair: Douglas Webber
 
 David Song
 Fields: Development Economics, International Economics, Macroeconometrics
 Dissertation Title: Three Essays on Economic Growth in Singapore
-Personal website: http://sites.temple.edu/davidsong26/
-CV: David-Song-CV
-Dissertation Committee Chair: Fyodor Kushnirsky
+- Personal website: [http://sites.temple.edu/davidsong26/](http://sites.temple.edu/davidsong26/) 
+- CV: David-Song-CV
+- Dissertation Committee Chair: Fyodor Kushnirsky
