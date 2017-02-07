@@ -1,7 +1,8 @@
 ---
 title: Resources
-permalink: "/resources/"
+permalink: /resources/
 layout: page
+published: true
 ---
 
 ## Make your Declaration
@@ -112,3 +113,48 @@ Dissertation Title: Three Essays on Economic Growth in Singapore
 - Pay by major from [CNN Money](http://money.cnn.com/2006/02/13/pf/college/starting_salaries/index.htm).
 - People making up the Top 1% in earnings from the [New York Times](http://economix.blogs.nytimes.com/2012/01/18/what-the-top-1-of-earners-majored-in/).
 - A [presentation](http://www.cla.temple.edu/economics/files/2013/08/Revised-Freshman-Seminar-Econ-Presentationbognanno2011.ppt) on opportunities for Economics Majors.
+
+## Resources
+
+### Student Links
+
+- Temple Economics Society
+- [Journal of Economics and Business](http://www.sbm.temple.edu/jeb)
+- [TUPortal](http://tuportal.temple.edu/)
+
+### Websites of Interest to Economists
+
+- [JEL Classification System](http://www.aeaweb.org/jel/jel_class_system.php)
+- [Social Science Research Network](http://www.ssrn.com/)
+- [AEAWeb](http://www.aeaweb.org/)
+- [Resources for Economists on the Internet](http://rfe.org/)
+- [World Wide Web Resources in Economics](http://www.helsinki.fi/WebEc/)
+- [The Virtual Library](http://vlib.org/BusinessEconomics)
+- [ECONlinks](http://www.ncat.edu/~simkinss/econlinks.html)
+- [Dr. T’s Econlinks.com](http://econlinks.com/)
+- [The Dismal Scientist](http://www.dismal.com/)
+- [Nouriel Roubini’s Home Page](http://www.roubini.com/)
+- [Paul Krugman’s Home Page](http://www.mit.edu/people/krugman/index.html)
+- [Financial Forecast Center](http://www.forecasts.org/)
+- [Online Masters in Economics](http://www.mastersineconomics.org/) (directory)
+
+### Websites with Economic Data
+
+- [Bureau of Economic Analysis](http://www.bea.gov/) 
+- The Bureau of Economic Analysis (BEA) is an agency of the Department of Commerce. Along with the Census Bureau and STAT-USA, BEA is part of the Department’s Economics and Statistics Administration.
+- [U. S. Department of Energy, Energy Information Administration](http://www.eia.doe.gov/) 
+- This site is maintained by the DOE. In addition to data describing the production, consumption, and prices of energy products, the site provides access to forecasts of future energy markets from both “short term” and “midterm” forecasting models. The short term model can be downloaded.
+- [U. S. Department of Commerce (DOC)](http://www.commerce.gov/) 
+- This website has a broader perspective for topical issues in economics compared to BEA (which is within the DOC).
+- [Stat-USA](http://www.usa.gov/Topics/Reference-Shelf/Data.shtml)
+- Stat-USA is another DOC sponsored source of economic data.
+- Federal Statistics
+- This site provides access to data collected by over seventy Federal agencies.
+- [Economagic](http://www.economagic.com/em-cgi/htm.exe?homepage)
+- This site has links to many of the data sources appearing elsewhere on this page. There is also a substantial amount of financial data. Subscriptions are available to enable data access and the use of utilities that facilitate data access.
+- [Bureau of Labor Statistics](http://stats.bls.gov/)
+- This site is has very convenient access to many economic indicators and data series.
+- [Federal Reserve Bank of St. Louis](http://www.stls.frb.org/)
+- This site has major economic time series as well as many other interesting features.
+- [Historical economic data](http://ycharts.com/indicators) This site presents many different collections of economic data and offers interactive charts.
+
