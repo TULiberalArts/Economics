@@ -7,15 +7,15 @@ published: true
 
 ## Make your Declaration
 
-The College of Liberal Arts has the largest selection of  academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.   
+The College of Liberal Arts has the largest selection of  academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
 For a complete list of our academic offerings visit [liberalarts.temple.edu](liberalarts.temple.edu)
 
 ## Visit Us
 
 The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](temple.edu/visit).
-If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit  opportunities we have throughout the year, including the Liberal Arts Preview Day. 
+If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit  opportunities we have throughout the year, including the Liberal Arts Preview Day.
 
-For more information, please go to: [liberalarts.temple.edu/admissions/visit](liberalarts.temple.edu/admissions/visit) 
+For more information, please go to: [liberalarts.temple.edu/admissions/visit](liberalarts.temple.edu/admissions/visit)
 
 ## Thinking of Transferring
 
@@ -23,7 +23,7 @@ The College of Liberal Arts offers a great deal of flexibility to help you accom
 
 ## Apply
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/app](admissions.temple.edu/app). 
+When you are ready to apply, submit your application online at [admissions.temple.edu/app](admissions.temple.edu/app).
 
 ## Deadlines
 
@@ -34,7 +34,7 @@ When you are ready to apply, submit your application online at [admissions.templ
 
 ## Undergraduate Resources
 
-## Careers 
+## Careers
 
 Graduates with an undergraduate major in economics, whether it is the liberal arts or the business major, will find that it has prepared them for a broad spectrum of jobs in business, economic consulting and government.  The reason is that courses in economics emphasize using an orderly way of thinking about, and solving, problems that arise from having to make choices in situations that are beyond an individual’s direct experience.  The abstract reasoning skills that are practiced in economics are highly valued where choosing efficiently in coordination with others is important. Everyone has to have the same basic problem-solving approach and economic training provides that.
 
@@ -101,7 +101,7 @@ Dissertation title: Essays in Labor Economics
 David Song
 Fields: Development Economics, International Economics, Macroeconometrics
 Dissertation Title: Three Essays on Economic Growth in Singapore
-- Personal website: [http://sites.temple.edu/davidsong26/](http://sites.temple.edu/davidsong26/) 
+- Personal website: [http://sites.temple.edu/davidsong26/](http://sites.temple.edu/davidsong26/)
 - CV: David-Song-CV
 - Dissertation Committee Chair: Fyodor Kushnirsky
 
@@ -128,7 +128,6 @@ Dissertation Title: Three Essays on Economic Growth in Singapore
 - [Social Science Research Network](http://www.ssrn.com/)
 - [AEAWeb](http://www.aeaweb.org/)
 - [Resources for Economists on the Internet](http://rfe.org/)
-- [World Wide Web Resources in Economics](http://www.helsinki.fi/WebEc/)
 - [The Virtual Library](http://vlib.org/BusinessEconomics)
 - [ECONlinks](http://www.ncat.edu/~simkinss/econlinks.html)
 - [Dr. T’s Econlinks.com](http://econlinks.com/)
@@ -140,11 +139,11 @@ Dissertation Title: Three Essays on Economic Growth in Singapore
 
 ### Websites with Economic Data
 
-- [Bureau of Economic Analysis](http://www.bea.gov/) 
+- [Bureau of Economic Analysis](http://www.bea.gov/)
 - The Bureau of Economic Analysis (BEA) is an agency of the Department of Commerce. Along with the Census Bureau and STAT-USA, BEA is part of the Department’s Economics and Statistics Administration.
-- [U. S. Department of Energy, Energy Information Administration](http://www.eia.doe.gov/) 
+- [U. S. Department of Energy, Energy Information Administration](http://www.eia.doe.gov/)
 - This site is maintained by the DOE. In addition to data describing the production, consumption, and prices of energy products, the site provides access to forecasts of future energy markets from both “short term” and “midterm” forecasting models. The short term model can be downloaded.
-- [U. S. Department of Commerce (DOC)](http://www.commerce.gov/) 
+- [U. S. Department of Commerce (DOC)](http://www.commerce.gov/)
 - This website has a broader perspective for topical issues in economics compared to BEA (which is within the DOC).
 - [Stat-USA](http://www.usa.gov/Topics/Reference-Shelf/Data.shtml)
 - Stat-USA is another DOC sponsored source of economic data.
@@ -157,4 +156,3 @@ Dissertation Title: Three Essays on Economic Growth in Singapore
 - [Federal Reserve Bank of St. Louis](http://www.stls.frb.org/)
 - This site has major economic time series as well as many other interesting features.
 - [Historical economic data](http://ycharts.com/indicators) This site presents many different collections of economic data and offers interactive charts.
-
