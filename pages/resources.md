@@ -5,6 +5,38 @@ layout: page
 published: true
 ---
 
+Chair:
+
+Dr. Michael A. Leeds
+831 Ritter Annex
+[(215) 204-8030](tel:2152048030)
+[mleeds@temple.edu](mailto:mleeds@temple.edu)
+
+Graduate Chair:
+
+Dr. Dimitrios I. Diamantaras
+Director of Graduate Studies
+877 Ritter Annex
+[(215) 204-8169](tel:2152048169)
+[dimitrios.diamantaras@temple.edu](mailto:jvincent@temple.edu)
+
+Administrator:
+
+Ms. Belinda Wilson
+Administrator
+821 Ritter Annex
+[(215) 204-0472](tel:2152040472)
+[bwilson@temple.edu](mailto:jvincent@temple.edu)
+
+Coordinator:
+
+Ms. Janice Vincent
+825 Ritter Annex
+[(215) 204-8880](tel:2152048880)
+[jvincent@temple.edu](mailto:jvincent@temple.edu)
+
+## Resources are Here to Help!
+
 ## Make your Declaration
 
 The College of Liberal Arts has the largest selection of  academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
