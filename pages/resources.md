@@ -7,33 +7,41 @@ published: true
 
 Chair:
 
-Dr. Michael A. Leeds
-831 Ritter Annex
-[(215) 204-8030](tel:2152048030)
-[mleeds@temple.edu](mailto:mleeds@temple.edu)
+Dr. Michael A. Leeds<br/>
+831 Ritter Annex<br/>
+[(215) 204-8030](tel:2152048030)<br/>
+[mleeds@temple.edu](mailto:mleeds@temple.edu)<br/>
 
 Graduate Chair:
 
-Dr. Dimitrios I. Diamantaras
-Director of Graduate Studies
-877 Ritter Annex
-[(215) 204-8169](tel:2152048169)
-[dimitrios.diamantaras@temple.edu](mailto:jvincent@temple.edu)
+Director of Graduate Studies<br/>
+Dr. Dimitrios I. Diamantaras<br/>
+877 Ritter Annex<br/>
+[(215) 204-8169](tel:2152048169)<br/>
+[dimitrios.diamantaras@temple.edu](mailto:jvincent@temple.edu)<br/>
+
+Undergraduate Chair:
+
+Undergraduate Coordinator<br/>
+William Lynn Holmes<br/>
+804 Ritter Annex<br/>
+[(215) 204-8175](tel:2152048175)<br/>
+[wholmes@temple.edu](mailto:wholmes@temple.edu)<br/>
 
 Administrator:
 
-Ms. Belinda Wilson
-Administrator
-821 Ritter Annex
-[(215) 204-0472](tel:2152040472)
-[bwilson@temple.edu](mailto:jvincent@temple.edu)
+Ms. Belinda Wilson<br/>
+Administrator<br/>
+821 Ritter Annex<br/>
+[(215) 204-0472](tel:2152040472)<br/>
+[bwilson@temple.edu](mailto:jvincent@temple.edu)<br/>
 
 Coordinator:
 
-Ms. Janice Vincent
-825 Ritter Annex
-[(215) 204-8880](tel:2152048880)
-[jvincent@temple.edu](mailto:jvincent@temple.edu)
+Ms. Janice Vincent<br/>
+825 Ritter Annex<br/>
+[(215) 204-8880](tel:2152048880)<br/>
+[jvincent@temple.edu](mailto:jvincent@temple.edu)<br/>
 
 ## Resources are Here to Help!
 
