@@ -55,6 +55,72 @@ The Departments of Economics and Mathematics offer the interdisciplinary Mathema
 ## Economics Major in the Fox School of Business (Fox)
 The BBA major is offered to students who want to acquire a general business background in addition to specialized exposure to Economics. The grid for a three-year BBA can be found here.
 
+## 4+1 Program in Economics: BA/MA
+
+The Economics Department’s 4+1 program allows talented, motivated students to pursue an MA degree during their Junior and Senior years and to complete the degree with just one additional year of study.  This program is ideal for students with strong Econ and Math backgrounds to hone their skills before applying to a top-tier Ph.D. program or applying for jobs requiring advanced economic skills. The grid for the three-year 4+1 BA/MA can be found [here](http://www.cla.temple.edu/economics/files/2017/03/Economics_BA_and_MA_41_Program-Annette.pdf).
+
+### Application Deadline
+
+-**June 1 following your sophomore year.**
+
+### Admission Date
+
+- Admissions decisions will be made by the end of June.
+*Exceptions: the department may consider students who apply by the end of the fall semester of their Junior years.  If admitted, they will have to take multiple graduate courses in the fall of their senior year.
+
+### Application to Graduate School
+
+During the fall of their junior year, students who are admitted to the 4+1 Program must apply to the Graduate School for formal admission to the Economics graduate program.
+
+### Prerequisites
+
+**Course requirements**
+
+By the time of application, the applicant should have completed:
+
+- Calculus III (Math 2043) or the equivalent
+- Linear Algebra (Math 2101) or the equivalent
+- Statistics (Statistics2103, Math 2031) or the equivalent
+- Intermediate Microeconomics (Econ 3501) or the equivalent
+- Intermediate Macroeconomics (Econ 3502) or the equivalent
+
+### GPA Requirement
+
+- Overall GPA: 3.5
+- Overall economics GPA: 3.7
+
+### Standardized Tests
+
+- Students admitted to the 4+1 Program do not have to take the GRE.
+
+## How to Apply to 4+1?
+
+- The application package specified as follows must be submitted to the Economics Department before the deadline.
+- An [application](http://www.cla.temple.edu/economics/files/2017/03/Application_for_41_Program__1_-1.pdf) form.
+- Personal statement detailing the motivation for seeking an accelerated M.A. degree.
+- Two recommendations from Temple University faculty, at least one of whom is the student’s instructor in an upper-level economics class.
+- A Temple University transcript including the latest semester’s grades (unofficial transcripts are acceptable).
+- Official transcripts from any other university the student has attended (if applicable).
+
+## Funding
+
+- Currently, there is no funding from CLA or the Economics department. Students will pay full graduate-level tuition.
+
+## More Questions?
+
+Please contact the program coordinator if you want to learn more about the program and the application process:
+
+**Director of Graduate Studies**
+Dr. Dimitrios I. Diamantaras
+_Acting Director of Graduate Studies_
+Phone Number: (215) 204-8169
+[dimitrios.diamantaras@temple.edu](mailto:dimitrios.diamantaras@temple.edu)
+
+**Graduate Program Coordinator**
+Ms. Linda Wyatt
+Phone Number: (215) 204-6638
+[ldwyatt@temple.edu](mailto:ldwyatt@temple.edu)
+
 ## Economics Minor in CLA
 The CLA minor is designed for students majoring in other subjects who want more exposure to Economics than would be covered in the two introductory Economics courses.
 
