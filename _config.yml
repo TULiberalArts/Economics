@@ -8,7 +8,7 @@ baseurl: /economics
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'The Department of Economics provides a rigorous training that is valuable in the competitive labor market and a strong basis for graduate studies in business, law and the social sciences.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple, economics
 
@@ -18,8 +18,8 @@ address:
   room: 8th Floor, Room 873
   street: 1114 Polett Walk
   city: Philadelphia, PA 19122
-  email: liberal-arts-economics@temple.edu
-  phone: 2152048880
+  email: <a href="mailto:liberal-arts-economics@temple.edu">liberal-arts-economics@temple.edu</a>
+  phone: 215-204-8880
 
 # Social Media
 # Put in only the username unless otherwise noted
