@@ -3,6 +3,9 @@
 title: Economics
 # Subdirectory (with / at only at beginning)
 baseurl: /economics
+# Production domain (without / at the end)
+production: https://www.cla.temple.edu
+
 
 # Program Information
 # Short tagline for tweets (<100 characters)
