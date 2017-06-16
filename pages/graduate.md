@@ -4,6 +4,42 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /graduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Chair:** <br/>
+  Dr. Michael A. Leeds<br/>
+  831 Ritter Annex<br/>
+  [(215) 204-8030](tel:2152048030)<br/>
+  [mleeds@temple.edu](mailto:mleeds@temple.edu)<br/>
+
+  <hr>
+
+  **Graduate Chair:** <br/>
+  Director of Graduate Studies<br/>
+  Dr. Dimitrios I. Diamantaras<br/>
+  877 Ritter Annex<br/>
+  [(215) 204-8169](tel:2152048169)<br/>
+  [dimitrios.diamantaras@temple.edu](mailto:jvincent@temple.edu)<br/>
+  
+  <hr>
+
+  **Administrator:** <br/>
+  Ms. Belinda Wilson<br/>
+  821 Ritter Annex<br/>
+  [(215) 204-0472](tel:2152040472)<br/>
+  [bwilson@temple.edu](mailto:jvincent@temple.edu)<br/>
+
+  <hr>
+ 
+ **Coordinator:** <br/>
+  Ms. Janice Vincent<br/>
+  825 Ritter Annex<br/>
+  [(215) 204-8880](tel:2152048880)<br/>
+  [jvincent@temple.edu](mailto:jvincent@temple.edu)<br/>
 ---
 
 Our master’s degree in economics helps students understand contemporary economic theory and its application to problems in industry, business and government. Students can focus on a specific area of economics or follow a general course of study. Potential areas of specialization include: econometrics, financial economics, health economics, international monetary economics and labor economics. The program provides specialized study and can serve as a terminal degree or a foundation for those who intend to apply to the PhD program.
