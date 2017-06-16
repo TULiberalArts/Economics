@@ -4,6 +4,41 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /undergraduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Chair:** <br/>
+  Dr. Michael A. Leeds<br/>
+  831 Ritter Annex<br/>
+  [(215) 204-8030](tel:2152048030)<br/>
+  [mleeds@temple.edu](mailto:mleeds@temple.edu)<br/>
+
+  <hr>
+
+  **Undergraduate Chair:** <br/>
+  William Lynn Holmes, Undergraduate Coordinator<br/>
+  804 Ritter Annex<br/>
+  [(215) 204-8175](tel:2152048175)<br/>
+  [wholmes@temple.edu](mailto:wholmes@temple.edu)<br/>>
+  
+  <hr>
+
+  **Administrator:** <br/>
+  Ms. Belinda Wilson<br/>
+  821 Ritter Annex<br/>
+  [(215) 204-0472](tel:2152040472)<br/>
+  [bwilson@temple.edu](mailto:jvincent@temple.edu)<br/>
+
+  <hr>
+ 
+ **Coordinator:** <br/>
+  Ms. Janice Vincent<br/>
+  825 Ritter Annex<br/>
+  [(215) 204-8880](tel:2152048880)<br/>
+  [jvincent@temple.edu](mailto:jvincent@temple.edu)<br/>
 ---
 
 The major in economics will expose you to the economist's way of thinking about social problems and behavior.
