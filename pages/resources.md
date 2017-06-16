@@ -6,7 +6,7 @@ layout: page
 published: true
 ---
 
-## Resources are here to Help!
+## Resources are here to help!
 
 ## Internships/Opportunities
 
