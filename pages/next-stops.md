@@ -12,6 +12,14 @@ There are numerous internship opportunities available for economics students in 
 - Philadelphia Federal Reserve Bank
 - Leading mutual fund, brokerage and consulting firms
 
+## Careers
+
+Graduates with an undergraduate major in economics, whether it is the liberal arts or the business major, will find that it has prepared them for a broad spectrum of jobs in business, economic consulting and government.  The reason is that courses in economics emphasize using an orderly way of thinking about, and solving, problems that arise from having to make choices in situations that are beyond an individual’s direct experience.  The abstract reasoning skills that are practiced in economics are highly valued where choosing efficiently in coordination with others is important. Everyone has to have the same basic problem-solving approach and economic training provides that.
+
+Thus, in business, a major problem that companies face is to earn at least enough to cover their costs. That means they have to have people at managerial levels who are focused on increasing a company’s revenues or decreasing its cost.  And these people need to be able to operate on their own using a common framework so that their decisions are compatible with those of others in the company. In business, that common framework is the economic decision-making framework.
+
+Similarly, in government, managers are required to achieve as much as they can with their limited budgets.  And, of course, economic consulting firms bring specialized skills in problem solving that are beyond the capabilities of individual companies or government agencies.
+
 ## Make your Declaration
 
 The College of Liberal Arts has the largest selection of  academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
