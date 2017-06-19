@@ -35,7 +35,7 @@ sidebar-content: > #
 
   <hr>
  
- **Coordinator:** <br/>
+  **Coordinator:** <br/>
   Ms. Janice Vincent<br/>
   825 Ritter Annex<br/>
   [(215) 204-8880](tel:2152048880)<br/>
