@@ -63,7 +63,7 @@ The Department of Economics offers full-time and part-time graduate programs lea
 
 The MA in Economics prepares the student to understand contemporary economic theory and its application to problems arising in industry, business, and government. The program gives the student an opportunity to specialize in one of two areas: (a) general economics or (b) applied economics and financial markets. The program is primarily dedicated to producing well-trained researchers and managers in the field of Economics. Many students go on to enter Ph.D. programs.
 
-[Program Requirements](http://bulletin.temple.edu/graduate/scd/cla/economics-ma/)(Grad Bulletin), [Student Handbook] (http://www.cla.temple.edu/economics/files/2013/08/Economics_MA_Handbook.pdf) 
+[Program Requirements](http://bulletin.temple.edu/graduate/scd/cla/economics-ma/)(Grad Bulletin), [Student Handbook](http://www.cla.temple.edu/economics/files/2013/08/Economics_MA_Handbook.pdf) 
 
 ## Ph.D in Economics
 
@@ -91,7 +91,7 @@ We do not require a BA in Economics, but intermediate economic theory and econom
 
 ## FAQs
 
-Have a question about our graduate program? Please view the list of frequently asked questions below. If you still have questions, please [contact us](http://www.cla.temple.edu/economics/contact-us/).
+Have a question about our graduate program? Please view the list of frequently asked questions below. If you still have questions, please [contact us](mailto:claecon@temple.edu).
 
 - Is financial aid available?
 The department offers a limited number of assistantships to outstanding applicants.  All assistantships are awarded to Ph.D. students.  MA students are not eligible for financial support.  An assistantship provides tuition remission, health insurance and a stipend.  In 2012-13, the stipend is approximately $16,500.  Assistants must provide up to 20 hours of teaching or research assistance.  Non-native English speakers might have to pass an examination in spoken English. 
