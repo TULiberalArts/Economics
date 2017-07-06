@@ -14,7 +14,7 @@ sidebar-content: > #
    
    ___
    
-   **Undegraduate Coordinator:**  
+   **Undergraduate Coordinator:**  
    William Lynn Holmes  
    804 Ritter Annex  
    [(215) 204-8175](tel:2152048175)  
