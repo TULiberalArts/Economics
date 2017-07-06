@@ -6,39 +6,35 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
+  **Chair:**  
+   Dr. Michael A. Leeds  
+   831 Ritter Annex  
+   [(215) 204-8030](tel:2152048030)  
+   [mleeds@temple.edu](mailto:mleeds@temple.edu)  
+   
+   ___
+   
+   **Undegraduate Coordinator:**  
+   William Lynn Holmes  
+   804 Ritter Annex  
+   [(215) 204-8175](tel:2152048175)  
+   [wholmes@temple.edu](mailto:wholmes@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Ms. Belinda Wilson    
+   821 Ritter Annex    
+   [(215) 204-0472](tel:2152040472)    
+   [bwilson@temple.edu](mailto:jvincent@temple.edu)    
+   
+   ___
 
-  <hr>
-
-  **Chair:** <br/>
-  Dr. Michael A. Leeds<br/>
-  831 Ritter Annex<br/>
-  [(215) 204-8030](tel:2152048030)<br/>
-  [mleeds@temple.edu](mailto:mleeds@temple.edu)<br/>
-
-  <hr>
-
-  **Undergraduate Chair:** <br/>
-  William Lynn Holmes, Undergraduate Coordinator<br/>
-  804 Ritter Annex<br/>
-  [(215) 204-8175](tel:2152048175)<br/>
-  [wholmes@temple.edu](mailto:wholmes@temple.edu)<br/>>
-  
-  <hr>
-
-  **Administrator:** <br/>
-  Ms. Belinda Wilson<br/>
-  821 Ritter Annex<br/>
-  [(215) 204-0472](tel:2152040472)<br/>
-  [bwilson@temple.edu](mailto:jvincent@temple.edu)<br/>
-
-  <hr>
- 
-  **Coordinator:** <br/>
-  Ms. Janice Vincent<br/>
-  825 Ritter Annex<br/>
-  [(215) 204-8880](tel:2152048880)<br/>
-  [jvincent@temple.edu](mailto:jvincent@temple.edu)<br/>
+   **Coordinators:**  
+   Ms. Janice Vincent    
+   825 Ritter Annex    
+   [(215) 204-8880](tel:2152048880)    
+   [jvincent@temple.edu](mailto:jvincent@temple.edu)     
 ---
 
 The major in economics will expose you to the economist's way of thinking about social problems and behavior.
