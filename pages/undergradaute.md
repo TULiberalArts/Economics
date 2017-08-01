@@ -5,7 +5,7 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Dr. Michael A. Leeds  
    831 Ritter Annex  
@@ -34,7 +34,7 @@ sidebar-content: > #
    Ms. Janice Vincent    
    825 Ritter Annex    
    [(215) 204-8880](tel:2152048880)    
-   [jvincent@temple.edu](mailto:jvincent@temple.edu)     
+   [jvincent@temple.edu](mailto:jvincent@temple.edu)
 ---
 
 The major in economics will expose you to the economist's way of thinking about social problems and behavior.
@@ -58,6 +58,8 @@ Economics is excellent preparation for graduate school, and is widely considered
 ## Research Opportunities
 
 Students seeking research experience may work directly  with specific faculty members or through the Center for  Regional Economics at Temple. Student interns perform research relating to economic issues in the Delaware Valley under the supervision of Temple professors and professional economists.
+
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
 
 ## Academic offerings
 
