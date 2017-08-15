@@ -175,11 +175,11 @@ For links to the Undergraduate Bulletin descriptions of the requirements for the
 
 In addition to completing general University and College or School requirements for graduation, students must fulfill the specific program requirements:
 
-- Economics Major in CLA
-- Mathematical Economics Major
-- Economics Major in The Fox School of Business
-- Economics Minor (CLA)
-- Economics Minor in Business (Fox)
+- [Economics Major in CLA](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/ba-economics/)
+- [Mathematical Economics Major](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/ba-mathematical-economics/)
+- [Economics Major in The Fox School of Business](http://bulletin.temple.edu/undergraduate/fox-business-management/economics/)
+- [Economics Minor (CLA)](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/minor-economics/)
+- [Economics Minor in Business (Fox)](http://bulletin.temple.edu/undergraduate/fox-business-management/business-minors-certificates/economics-minor/)
 
 For course descriptions for the program course requirements listed above, see the Economics and Mathematics Courses under University Course Descriptions.
 
