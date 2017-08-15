@@ -14,11 +14,11 @@ sidebar-content: |
    
    ___
    
-   **Undergraduate Coordinator:**  
-   William Lynn Holmes  
-   804 Ritter Annex  
-   [(215) 204-8175](tel:2152048175)  
-   [wholmes@temple.edu](mailto:wholmes@temple.edu)  
+   **Director of Undergraduate Studies:**  
+   Moritz Ritter
+   809 Ritter Annex 
+   [(215) 204-5029](tel:2152045029)
+   [moritz.ritter@temple.edu](mailto:moritz.ritter@temple.edu)  
    
    ___
    
