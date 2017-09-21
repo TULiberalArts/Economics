@@ -1,11 +1,11 @@
 ---
 title: Next Stops
-meta-keywords: 3 or 4 unique for this page
 permalink: /next-stops/
 layout: page
+meta-keywords: ''
+description: >-
 published: true
 ---
-
 There are numerous internship opportunities available for economics students in the Philadelphia region, including:
 
 - Philadelphia Chamber of Commerce
