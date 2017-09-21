@@ -1,13 +1,14 @@
 ---
 title: Home
-meta-description: 100 or so words
-meta-keywords: 3 or 4 unique for this page
-permalink: "/"
+permalink: /
 layout: home
+description: >- 
+keywords: ''
 feature: false
 feature-title: 
-feature-body: 
 feature-image: 
+feature-body: 
+published: true
 ---
 
 Economics is a way of thinking that provides insights into all facets of our personal and professional lives, improving our understanding of the world and our own decision-making. Economics is oriented around solving real-world  problems — not merely memorizing facts. This helps to build valuable critical thinking skills and methods of analysis.
