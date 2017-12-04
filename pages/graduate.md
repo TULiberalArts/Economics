@@ -67,7 +67,7 @@ The Ph.D. in economics is designed to prepare the student for university teachin
 
 ## Admissions Process
 
-Please visit the Economics Graduate Admissions page to learn more about graduate program requirements and instructions on how to apply.
+Please visit the [Economics Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/economics) to learn more about graduate program requirements and instructions on how to apply.
 
 ## FAQs
 
