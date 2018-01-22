@@ -40,7 +40,7 @@ Major fieldUnemployment1st 25% earningsMedian earningsTop 75% earnings.
 - Political Science:	6.0%	$38,000	$57,000	$91,000
 - International Business:	8.5%	$38,000	$52,000	$87,000
 
-A complementary view on the career prospects of economics majors is seen in data from an [aricle](https://www.usnews.com/education/best-colleges/articles/2012/09/12/college-majors-with-the-best-return-on-investment) on US News by Kelsey Sheehy, September 12, 2012. 
+A complementary view on the career prospects of economics majors is seen in data from an aricle on US News by Kelsey Sheehy, September 12, 2012. 
 
 Sheehy reports the following numbers, according to salary data from PayScale:
 
