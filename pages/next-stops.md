@@ -6,6 +6,8 @@ meta-keywords: ''
 description: >-
 published: true
 ---
+The study of economics is excellent preparation for a wide range of careers. Economics majors with bachelor’s degrees are well prepared to be managers and leaders in both the public and private sectors. Training in economics at the undergraduate level also provides a solid basis for professional study in law, business, public administration, and the health sciences. College graduates who majored in economics rank highly in terms of compensation nationally.
+
 There are numerous internship opportunities available for economics students in the Philadelphia region, including:
 
 - Philadelphia Chamber of Commerce
