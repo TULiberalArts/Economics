@@ -50,10 +50,10 @@ The mission of the Department of Economics is to provide a program of study in e
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
-        content=" " 
+        title="Earn your BA and MA in 5 Years" 
+        content="Students who wish to earn a BA and an MA in economics may do so in a combined 4+1 program. Students begin graduate study during their undergraduate program and are able to count some electives towards both degrees." 
         image="" 
-        button-link=" " 
+        button-link="undergraduate/#4+1 Program in Economics: BA/MA" 
         button-text="Learn More" %}
       </div>
 </div>
