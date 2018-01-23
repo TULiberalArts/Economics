@@ -13,11 +13,11 @@ sidebar-content: |
    
    ___
    
-   **Graduate Coordinator:**  
-   Dr. Dimitrios I. Diamantaras    
+   **Director of Graduate Studies:**  
+   Douglas Webber    
    877 Ritter Annex    
-   [(215) 204-8169](tel:2152048169)    
-   [dimitrios.diamantaras@temple.edu](mailto:jvincent@temple.edu)    
+   [(215) 204-5025](tel:2152045025)    
+   [douglas.webber@temple.edu](mailto:douglas.webber@temple.edu)    
    
    ___
    
