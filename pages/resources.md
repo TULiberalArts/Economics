@@ -14,6 +14,10 @@ Economics Majors have access to internship opportunities through the Economics s
 
 Graduating seniors majoring in Economics (CLA or Fox)  or Mathematical Economics (CLA or CST) are eligible to be considered for the Sun Award in Economics for outstanding achievements as an undergraduate economics major. For more details, contact the Economic Faculty Advisor.
 
+## Working Paper Series 
+
+The following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Economics-Working%20Paper%20Series.pdf) contains a series of working papers by faculty in the department. You can download the corresponding Department of Economics at Temple University (DETU) Working Papers in PDF form.
+
 ## Opportunities and Compensation in Economics
 
 ### Most Popular College Degrees Earned By Millionaires
