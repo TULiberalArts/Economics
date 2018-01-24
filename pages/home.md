@@ -34,18 +34,18 @@ The mission of the Department of Economics is to provide a program of study in e
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title=" " 
-    content=" " 
+    title="NEED CONTENT" 
+    content="NEED DESCRIPTION" 
     image="" 
     button-link=" " 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title=" " 
-      content=" " 
+      title="NEED CONTENT" 
+      content="NEED DESCRIPTION" 
       image="" 
-      button-link=" " 
+      button-link="" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
