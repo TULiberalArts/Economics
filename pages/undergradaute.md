@@ -37,6 +37,7 @@ sidebar-content: |
    [(215) 204-8880](tel:2152048880)    
    [jvincent@temple.edu](mailto:jvincent@temple.edu)
 ---
+![Economics Wall Image]({{site.baseurl}}/media/resized Econ Wall image.jpg){:.img-right}
 ## Where Can a Major in Economics Take You? 
 A major in economics will expose you to the economist's way of thinking about social problems and behavior. Our BA program provides the essential background for study of economics at the graduate level and is designed for those who are planning for careers in economics, as well as professional careers. This program is also good preparation for those looking to pursue a career in law or business. Through the cooperative education option, students may earn income while gaining valuable work experience which can enhance their job market prospects upon graduation. 
 
