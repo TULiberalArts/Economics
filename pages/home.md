@@ -18,7 +18,7 @@ Economics is a way of thinking that provides insights into all facets of our per
 ## Help Resolve the Social Problems of Our Time
 The mission of the Department of Economics is to provide a program of study in economics that fosters the intellectual growth of our undergraduate and graduate students, cultivates a stimulating research environment for the faculty, enhances the scholarship of the University and contributes to the field of economics while employing the analytical tools of the discipline. 
 
-[![AEA video]({{site.baseurl}}/media/resized Treasury Image 1-1024x448.png)(https://www.aeaweb.org/video/career_in_economics.php){:.img-right}
+[![AEA video](https://github.com/TULiberalArts/Economics/blob/master/media/resized%20Treasury%20Image%201-1024x448.png)](https://www.aeaweb.org/video/career_in_economics.php){:.img-right}
 
 [A career in economics... it's much more than you think (AEA video) ](https://www.aeaweb.org/video/career_in_economics.php)
 
