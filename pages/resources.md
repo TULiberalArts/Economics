@@ -9,6 +9,7 @@ published: true
 ## Working Paper Series 
 The following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/2016%20Working%20Paper%20Series.pdf) contains a series of working papers by faculty in the department. You can download the corresponding Department of Economics at Temple University (DETU) Working Papers in PDF form.
 
+![US Flag]({{site.baseurl}}/media/resized Econ american-flag.png){:.img-right}
 ## Center For Competitive Governments
 The [Center for Competitive Government](http://www.fox.temple.edu/cms_research/institutes-and-centers/center-for-competitive-government-2/) (formerly the Privatization Research Center) deals with description, evaluation and planning of innovations by government.
 
