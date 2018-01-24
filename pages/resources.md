@@ -12,6 +12,9 @@ The following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Econo
 ## Center For Competitive Governments
 The [Center for Competitive Government](http://www.fox.temple.edu/cms_research/institutes-and-centers/center-for-competitive-government-2/) (formerly the Privatization Research Center) deals with description, evaluation and planning of innovations by government.
 
+## Econimoic Data Websites and More
+The folloing [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Economics%20Resources_%20Student%20Links.pdf) provides lists of links to websites that houses economic data and research that may be of interest.
+
 ## Opportunities and Compensation in Economics
 
 ### Most Popular College Degrees Earned By Millionaires
