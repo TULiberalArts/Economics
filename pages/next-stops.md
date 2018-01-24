@@ -22,6 +22,13 @@ Thus, in business, a major problem that companies face is to earn at least enoug
 
 Similarly, in government, managers are required to achieve as much as they can with their limited budgets.  And, of course, economic consulting firms bring specialized skills in problem solving that are beyond the capabilities of individual companies or government agencies.
 
+## Support the Department of Economics
+Donations by alumni and supporters in the community are of critical value to the Economics Department. They currently fund a range of student awards that allow student accomplishment to be formally recognized. Your gift can further the Economics Department in a number of ways that the Department Chair would be happy to speak with you about or can be directed as you choose. 
+
+If you would like to make a gift to the Economics Department, please call 215-204-7743 and ask to speak with someone in Development. The College of Liberal Arts Development Office will be happy to designate your gift to the department. Your generosity is greatly appreciated. For more information on endowments, memorials and tributes, please visit the [Temple University Giving Website](http://giving.temple.edu/) or contact the [College of Liberal Arts Development Staff](https://liberalarts.temple.edu/our-alumni/giving).
+
+___
+
 ## Make your Declaration
 
 The College of Liberal Arts has the largest selection of  academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
