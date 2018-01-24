@@ -16,10 +16,10 @@ sidebar-content: |
    ___
    
    **Director of Undergraduate Studies:**  
-   Moritz Ritter
-   809 Ritter Annex 
-   [(215) 204-5029](tel:2152045029)
-   [moritz.ritter@temple.edu](mailto:moritz.ritter@temple.edu)  
+   Moritz Ritter    
+   809 Ritter Annex   
+   [(215) 204-5029](tel:2152045029)    
+   [moritz.ritter@temple.edu](mailto:moritz.ritter@temple.edu)   
    
    ___
    
