@@ -60,9 +60,9 @@ The Economics Department’s 4+1 program allows talented, motivated students to 
 You can view the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Economics%204%2B1%20BA%3AMA%20Requirements.pdf) to learn more about admission requirements, deadlines, prerequsites and contact information.
 
 ## Honors
-The Economics Department offers honors versions of two introductory economics courses: Economics 1901, Honors Macroeconomic Principles, and 1902, Honors Microeconomic Principles.
-
-Learn More about the Economics Honors courses. 
+The Economics Department offers honors versions of two introductory economics courses:
+- [Economics 1901-Honors Macroeconomic Principles](http://bulletin.temple.edu/search/?P=ECON%201901
+- [Economics 1902-Honors Microeconomic Principles](http://bulletin.temple.edu/search/?P=ECON%201902)
 
 ## Research Opportunities
 Students seeking research experience may work directly  with specific faculty members or through the Center for  Regional Economics at Temple. Student interns perform research relating to economic issues in the Delaware Valley under the supervision of Temple professors and professional economists.
