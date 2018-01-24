@@ -36,6 +36,7 @@ sidebar-content: |
    [jvincent@temple.edu](mailto:jvincent@temple.edu)
 ---
 ## Degrees and Programs of Study
+![Economics Books]({{site.baseurl}}/media/economics-books.png){:.img-right}
 The Department of Economics offers full-time and part-time graduate programs leading to master’s (MA) and doctoral (Ph.D.) degrees. After completing the MA program, students should have the technical skills required for economic analysis of business and public policy. After completing the Ph.D. program, students should be able to conduct original research and advance knowledge in the field.
 
 ## M.A. in Economics
