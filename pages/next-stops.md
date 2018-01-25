@@ -16,11 +16,23 @@ There are numerous internship opportunities available for economics students in 
 
 ## Careers
 ![US Treasury]({{site.baseurl}}/media/resized Treasury Image 1-1024x448.png){:.img-right}
-Graduates with an undergraduate major in economics, whether it is the liberal arts or the business major, will find that it has prepared them for a broad spectrum of jobs in business, economic consulting and government.  The reason is that courses in economics emphasize using an orderly way of thinking about, and solving, problems that arise from having to make choices in situations that are beyond an individual’s direct experience.  The abstract reasoning skills that are practiced in economics are highly valued where choosing efficiently in coordination with others is important. Everyone has to have the same basic problem-solving approach and economic training provides that.
+Graduates with an undergraduate major in economics, whether it is the liberal arts or the business major, will find that it has prepared them for a broad spectrum of jobs in business, economic consulting and government. The reason is that courses in economics emphasize using an orderly way of thinking about, and solving, problems that arise from having to make choices in situations that are beyond an individual’s direct experience. The abstract reasoning skills that are practiced in economics are highly valued where choosing efficiently in coordination with others is important. Everyone has to have the same basic problem-solving approach and economic training provides that.
 
-Thus, in business, a major problem that companies face is to earn at least enough to cover their costs. That means they have to have people at managerial levels who are focused on increasing a company’s revenues or decreasing its cost.  And these people need to be able to operate on their own using a common framework so that their decisions are compatible with those of others in the company. In business, that common framework is the economic decision-making framework.
+Thus, in business, a major problem that companies face is to earn at least enough to cover their costs. That means they have to have people at managerial levels who are focused on increasing a company’s revenues or decreasing its cost. And these people need to be able to operate on their own using a common framework so that their decisions are compatible with those of others in the company. In business, that common framework is the economic decision-making framework.
 
-Similarly, in government, managers are required to achieve as much as they can with their limited budgets.  And, of course, economic consulting firms bring specialized skills in problem solving that are beyond the capabilities of individual companies or government agencies.
+Similarly, in government, managers are required to achieve as much as they can with their limited budgets. And, of course, economic consulting firms bring specialized skills in problem solving that are beyond the capabilities of individual companies or government agencies.
+
+## Economics Alumni
+Our graduates go into many different fields upon completion of our program. Explore the list below to see where some of our distinguished graduate alumni are!
+
+- James Bailey, Ph.D. 2014, Assistant Professor at [Creighton University](https://www.creighton.edu/)
+- Shu Deng, Ph.D. 2014, Senior Economist II at [IHS, Inc.](http://www.ihs.com/index.aspx), The Center for Modeling and Forecasting
+- Paul Marmora, Ph.D. 2015, Assistant Professor, Randolph Macon College, Ashland, Virginia
+- Andria Smythe, Ph.D. 2015, Assistant Professor, Randolph College, Lynchburg, Virginia
+- Kabir Dasgupta, Ph.D. 2016, Post-doctoral Research Fellow, Auckland University of Technology, New Zealand
+- Juan (Iris) Huang, Ph.D. 2016, Vice President, TD Securities, a Canadian Investment Bank in New York
+- Keshar M. Ghimire, Ph.D. 2016, Assistant Professor, University of Cincinnati at Blue Ash, Ohio
+- Jason Keegan, Ph.D. 2016, Financial Economist, Federal Reserve Bank of Philadelphia
 
 ## Support the Department of Economics
 Donations by alumni and supporters in the community are of critical value to the Economics Department. They currently fund a range of student awards that allow student accomplishment to be formally recognized. Your gift can further the Economics Department in a number of ways that the Department Chair would be happy to speak with you about or can be directed as you choose. 
@@ -30,25 +42,21 @@ If you would like to make a gift to the Economics Department, please call 215-20
 ___
 
 ## Make your Declaration
-
 The College of Liberal Arts has the largest selection of  academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
 For a complete list of our academic offerings visit [liberalarts.temple.edu](liberalarts.temple.edu)
 
 ## Visit Us
-
 The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
 
 ## Thinking of Transferring
-
 The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible. To learn more about transferring to Temple, please visit [temple.edu/transfer](temple.edu/transfer).
 
 ## Apply
-
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
 
 ## Deadlines
 
-- February 1: Freshman Application Deadline for Fall Semester
-- March 1: FAFSA Financial Aid Application Deadline
-- November 1: Transfer Deadline for Spring Semester
-- June 1: Transfer Deadline for Fall Semester
+- **February 1**: Freshman Application Deadline for Fall Semester
+- **March 1**: FAFSA Financial Aid Application Deadline
+- **November 1**: Transfer Deadline for Spring Semester
+- **June 1**: Transfer Deadline for Fall Semester
