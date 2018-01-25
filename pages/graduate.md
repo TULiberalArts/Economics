@@ -55,5 +55,9 @@ Learn more about the [PhD in Economics](http://bulletin.temple.edu/graduate/scd/
 
 Please visit the [Economics Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/economics) to learn more about graduate program requirements and instructions on how to apply.
 
-- [**Graduate Program FAQ's**](https://liberalarts.temple.edu/sites/liberalarts/files/Economics%20Graduate%20Program%20FAQ.pdf)- If you still have questions, please [contact us](mailto:claecon@temple.edu).
-- [**Graduate Student Handbook**](https://liberalarts.temple.edu/sites/liberalarts/files/Economics_MA_Handbook_0.pdf)
+## Graduate Resources
+- [Graduate Program FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/Economics%20Graduate%20Program%20FAQ.pdf)- If you still have questions, please [contact us](mailto:claecon@temple.edu).
+- [Graduate Student Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Economics_MA_Handbook_0.pdf)
+- [Graduate Forms](http://www.temple.edu/grad/forms/index.htm)
+- [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm) 
+- [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm) 
