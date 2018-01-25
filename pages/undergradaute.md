@@ -39,10 +39,13 @@ sidebar-content: |
 ---
 ![Economics Wall Image]({{site.baseurl}}/media/resized Econ Wall image.jpg){:.img-right}
 ## Where Can a Major in Economics Take You? 
-A major in economics will expose you to the economist's way of thinking about social problems and behavior. Our BA program provides the essential background for study of economics at the graduate level and is designed for those who are planning for careers in economics, as well as professional careers. This program is also good preparation for those looking to pursue a career in law or business. Through the cooperative education option, students may earn income while gaining valuable work experience which can enhance their job market prospects upon graduation. 
+Graduates with an undergraduate major in economics, whether it is the liberal arts or the business major, will find that it has prepared them for a broad spectrum of jobs in business, economic consulting and government. The reason is that courses in economics emphasize using an orderly way of thinking about, and solving, problems that arise from having to make choices in situations that are beyond an individual’s direct experience. The abstract reasoning skills that are practiced in economics are highly valued where choosing efficiently in coordination with others is important. Everyone has to have the same basic problem-solving approach and economic training provides that.
+
+Thus, in business, a major problem that companies face is to earn at least enough to cover their costs. That means they have to have people at managerial levels who are focused on increasing a company’s revenues or decreasing its cost. And these people need to be able to operate on their own using a common framework so that their decisions are compatible with those of others in the company. In business, that common framework is the economic decision-making framework.
+
+Similarly, in government, managers are required to achieve as much as they can with their limited budgets. And, of course, economic consulting firms bring specialized skills in problem solving that are beyond the capabilities of individual companies or government agencies.
 
 ## Program Overview
-
 The major in economics exposes a student to the economist's way of thinking about social problems and behavior. The major helps a student understand the economic aspects of current events and public policy and it is a good preparation for careers in public policy, law and business. The BA major, which also provides the essential background for study of economics, is designed for those who are planning for careers in economics, among other Liberal Arts fields, as well as professional careers. The BBA major is offered to students who want to acquire a general business background in addition to specialized exposure to economics.
 
 ## Academic Offerings
