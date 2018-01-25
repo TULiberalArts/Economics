@@ -13,16 +13,10 @@ The following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/2016%
 ## Center For Competitive Governments
 The [Center for Competitive Government](http://www.fox.temple.edu/cms_research/institutes-and-centers/center-for-competitive-government-2/) (formerly the Privatization Research Center) deals with description, evaluation and planning of innovations by government.
 
-## Econimoic Data Websites and More
+## Econoimic Data Websites and More
 The folloing [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Economics%20Resources_%20Student%20Links.pdf) provides lists of links to websites that houses economic data and research that may be of interest.
 
 ## Opportunities and Compensation in Economics
-
-### Most Popular College Degrees Earned By Millionaires
-- Pay by major from the Wall Street Journal: [Excel spreadsheet](http://www.cla.temple.edu/economics/files/2013/08/Undergraduate-Major-and-Pay.pdf)
-- Pay by major from [CNN Money](http://money.cnn.com/2006/02/13/pf/college/starting_salaries/index.htm).
-- People making up the Top 1% in earnings from the [New York Times](http://economix.blogs.nytimes.com/2012/01/18/what-the-top-1-of-earners-majored-in/).
-- A [presentation](http://www.cla.temple.edu/economics/files/2013/08/Revised-Freshman-Seminar-Econ-Presentationbognanno2011.ppt) on opportunities for Economics Majors.
 
 ### Earnings of Economics Majors in Perspective
 Your undergraduate major has a huge influence on your career. Our faculty member Douglas Webber has recently published research on the earnings of about 80 different college majors. The following two links present in PDF form estimates of the median, 25th percentile, and 75th percentile earnings of people who have earned these majors. One table presents these statistics for people who receive a Bachelor’s degree but do not ever get a graduate degree of any type, and the other table includes everyone. At the bottom of each of these tables there is a short description of the method and the sample behind the table as well as a link to the paper by Dr. Webber. [Expected lifetime earnings](http://www.cla.temple.edu/economics/files/2014/04/Expected-lifetime-earnings-Only-Bachelors1-copy.pdf) (Only Bachelors).[Expected lifetime earnings](http://www.cla.temple.edu/economics/files/2014/04/Expected-lifetime-earnings-All1-copy.pdf) (All).
@@ -49,6 +43,12 @@ Sheehy reports the following numbers, according to salary data from PayScale:
 - Political Science: $39,900- $80,100
 - International Relations: $40,500- $79,400
 - Advertising:  $37,700- $74,700
+
+### Most Popular College Degrees Earned By Millionaires
+- Pay by major from the Wall Street Journal: [Excel spreadsheet](http://www.cla.temple.edu/economics/files/2013/08/Undergraduate-Major-and-Pay.pdf)
+- Pay by major from [CNN Money](http://money.cnn.com/2006/02/13/pf/college/starting_salaries/index.htm).
+- People making up the Top 1% in earnings from the [New York Times](http://economix.blogs.nytimes.com/2012/01/18/what-the-top-1-of-earners-majored-in/).
+- A [presentation](http://www.cla.temple.edu/economics/files/2013/08/Revised-Freshman-Seminar-Econ-Presentationbognanno2011.ppt) on opportunities for Economics Majors.
 
 ## Support the Department of Economics
 Donations by alumni and supporters in the community are of critical value to the Economics Department. They currently fund a range of student awards that allow student accomplishment to be formally recognized. Your gift can further the Economics Department in a number of ways that the Department Chair would be happy to speak with you about or can be directed as you choose. 
