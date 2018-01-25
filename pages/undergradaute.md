@@ -63,7 +63,7 @@ You can view the following [pdf](https://liberalarts.temple.edu/sites/liberalart
 
 ## Honors
 The Economics Department offers honors versions of two introductory economics courses:
-- [Economics 1901-Honors Macroeconomic Principles](http://bulletin.temple.edu/search/?P=ECON%201901
+- [Economics 1901-Honors Macroeconomic Principles](http://bulletin.temple.edu/search/?P=ECON%201901)
 - [Economics 1902-Honors Microeconomic Principles](http://bulletin.temple.edu/search/?P=ECON%201902)
 
 ## Research Opportunities
