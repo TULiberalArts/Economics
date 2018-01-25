@@ -49,3 +49,8 @@ Sheehy reports the following numbers, according to salary data from PayScale:
 - Political Science: $39,900- $80,100
 - International Relations: $40,500- $79,400
 - Advertising:  $37,700- $74,700
+
+## Support the Department of Economics
+Donations by alumni and supporters in the community are of critical value to the Economics Department. They currently fund a range of student awards that allow student accomplishment to be formally recognized. Your gift can further the Economics Department in a number of ways that the Department Chair would be happy to speak with you about or can be directed as you choose. 
+
+If you would like to make a gift to the Economics Department, please call 215-204-7743 and ask to speak with someone in Development. The College of Liberal Arts Development Office will be happy to designate your gift to the department. Your generosity is greatly appreciated. For more information on endowments, memorials and tributes, please visit the [Temple University Giving Website](http://giving.temple.edu/) or contact the [College of Liberal Arts Development Staff](https://liberalarts.temple.edu/our-alumni/giving).
