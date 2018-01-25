@@ -58,9 +58,12 @@ The major in economics exposes a student to the economist's way of thinking abou
  - [Management Career Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/management-career-certificate/)
  - [Political Economy Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/certificate-political-economy/)
  - 4+1 BA and Master’s in Economics
+ 
+## Economics Major in the Fox School of Business (Fox)
+The BBA major is offered to students who want to acquire a general business background in addition to specialized exposure to Economics. Please review the [Three-Year BBA Grid](https://liberalarts.temple.edu/sites/liberalarts/files/3yearBBAinEconomics.pdf).
 
 ## 4+1 Program in Economics: BA/MA
-The Economics Department’s 4+1 program allows talented, motivated students to pursue an MA degree during their Junior and Senior years and to complete the degree with just one additional year of study. This program is ideal for students with strong Econ and Math backgrounds to hone their skills before applying to a top-tier Ph.D. program or applying for jobs requiring advanced economic skills. The grid for the three-year 4+1 BA/MA can be found [here](https://liberalarts.temple.edu/sites/liberalarts/files/Economics_BA_and_MA_41_Program-Annette.pdf). 
+The Economics Department’s 4+1 program allows talented, motivated students to pursue an MA degree during their Junior and Senior years and to complete the degree with just one additional year of study. This program is ideal for students with strong Econ and Math backgrounds to hone their skills before applying to a top-tier Ph.D. program or applying for jobs requiring advanced economic skills. Please review the [Grid for the Five-Year 4+1 BA/MA](https://liberalarts.temple.edu/sites/liberalarts/files/Economics_BA_and_MA_41_Program-Annette.pdf). 
 
 You can view the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Economics%204%2B1%20BA%3AMA%20Requirements.pdf) to learn more about admission requirements, deadlines, prerequsites and contact information.
 
@@ -75,4 +78,9 @@ Students seeking research experience may work directly  with specific faculty me
 ## Prepare For Graduate Work
 Economics is excellent preparation for graduate school, and is widely considered to be one of the best degrees for students interested in pursuing a professional degree in business or law. 
 
-- [**Undergraduate FAQ's**](https://liberalarts.temple.edu/sites/liberalarts/files/Economics%20Undergraduate%20FAQ%27s.pdf)
+## Undergraduate Resources
+- Changing your Major: Contact [CLA Advising](http://www.cla.temple.edu/advising/) for the CLA and CST majors and [Fox Advising](http://www.fox.temple.edu/cms_academics/dept/advising/) for the FSBM major
+- Graduation Application Process: Contact [CLA Advising](http://www.cla.temple.edu/advising/) for the CLA and CST majors and [Fox Advising](http://www.fox.temple.edu/cms_academics/dept/advising/) for the FSBM major
+- [Student Financial Services](http://www.temple.edu/sfs/)
+- [Undergraduate Policies](http://bulletin.temple.edu/undergraduate/academic-policies/).
+- [Undergraduate FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/Economics%20Undergraduate%20FAQ%27s.pdf)
