@@ -13,9 +13,8 @@ feature-body: >-
 published: true
 ---
 ## The Economic Way of Thinking
-Economics is a way of thinking that provides insights into all facets of our personal and professional lives, improving our understanding of the world and our own decision-making. This is invaluable in making sound decisions in any type of organization, and provides the foundation for many other academic and professional disciplines, such as management, marketing and finance. Economics is oriented around solving real-world  problems — not merely memorizing facts.  
-
 [![AEA video](https://github.com/TULiberalArts/Economics/blob/master/media/video%202%20Treasury%20Image%201-1024x448.png?raw=true)](https://www.aeaweb.org/video/career_in_economics.php){:.img-right}
+Economics is a way of thinking that provides insights into all facets of our personal and professional lives, improving our understanding of the world and our own decision-making. This is invaluable in making sound decisions in any type of organization, and provides the foundation for many other academic and professional disciplines, such as management, marketing and finance. Economics is oriented around solving real-world  problems — not merely memorizing facts.  
 
 ## Help Resolve the Social Problems of Our Time
 The mission of the Department of Economics is to provide a program of study in economics that fosters the intellectual growth of our undergraduate and graduate students, cultivates a stimulating research environment for the faculty, enhances the scholarship of the University and contributes to the field of economics while employing the analytical tools of the discipline. Check out the American Economic Association video featured to the right titled _"A career in Economics... it's much more thank you think!_" 
