@@ -58,8 +58,7 @@ college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
 program_news: https://liberalarts.temple.edu/news/economics
-program_events: https://events.temple.edu/department/economics 
-
+program_events: https://events.temple.edu/department/economics  
 
 # Google Tag Manager OR Google Analytics
 google_analytics:
