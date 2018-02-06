@@ -6,7 +6,7 @@ description: >-
 keywords: ''
 feature: true
 feature-title: Build Valuable Critical Thinking Skills and Methods of Analysis
-feature-image: media/department-of-economics-temple2.jpg
+feature-image: media/dark hero image_bg.png
 feature-body: >-
   The Department of Economics provides a rigorous training that is valuable in the competitive
   labor market and a strong basis for graduate studies in business, law and the social sciences.
