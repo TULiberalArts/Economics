@@ -7,7 +7,7 @@ description: >-
 published: true
 ---
 ## Working Paper Series 
-The following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/2016%20Working%20Paper%20Series.pdf) contains a series of working papers by faculty in the department. You can download the corresponding Department of Economics at Temple University (DETU) Working Papers in PDF form.
+The following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/2016%20Working%20Paper%20Series_0.pdf) contains a series of working papers by faculty in the department. You can download the corresponding Department of Economics at Temple University (DETU) Working Papers in PDF form.
 
 ![US Flag]({{site.baseurl}}/media/resized Econ american-flag.png){:.img-right}
 ## Center For Competitive Governments
