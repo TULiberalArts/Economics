@@ -47,17 +47,6 @@ Similarly, in government, managers are required to achieve as much as they can w
 
 ## Program Overview
 The major in economics exposes a student to the economist's way of thinking about social problems and behavior. The major helps a student understand the economic aspects of current events and public policy and it is a good preparation for careers in public policy, law and business. The BA major, which also provides the essential background for study of economics, is designed for those who are planning for careers in economics, among other Liberal Arts fields, as well as professional careers. The BBA major is offered to students who want to acquire a general business background in addition to specialized exposure to economics.
-
-## Academic Offerings
-
- - [BA in Economics](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/ba-economics/)
- - [BA in Mathematical Economics](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/ba-mathematical-economics/)
- - [Minor in Economics](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/minor-economics/)
- - [MA in Economics](http://bulletin.temple.edu/graduate/scd/cla/economics-ma/)
- - [PhD in Economics](http://bulletin.temple.edu/graduate/scd/cla/economics-phd/)
- - [Management Career Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/management-career-certificate/)
- - [Political Economy Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/certificate-political-economy/)
- - 4+1 BA and Master’s in Economics
  
 ## Economics Major in the Fox School of Business (Fox)
 The BBA major is offered to students who want to acquire a general business background in addition to specialized exposure to Economics. Please review the [Three-Year BBA Grid](https://liberalarts.temple.edu/sites/liberalarts/files/3yearBBAinEconomics.pdf).
