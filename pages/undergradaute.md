@@ -54,7 +54,7 @@ The BBA major is offered to students who want to acquire a general business back
 ## 4+1 Program in Economics: BA/MA
 The Economics Department’s 4+1 program allows talented, motivated students to pursue an MA degree during their Junior and Senior years and to complete the degree with just one additional year of study. This program is ideal for students with strong Econ and Math backgrounds to hone their skills before applying to a top-tier Ph.D. program or applying for jobs requiring advanced economic skills. Please review the [Grid for the Five-Year 4+1 BA/MA](https://liberalarts.temple.edu/sites/liberalarts/files/Economics_BA_and_MA_41_Program-Annette.pdf). 
 
-You can view the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Economics%204%2B1%20BA%3AMA%20Requirements.pdf) to learn more about admission requirements, deadlines, prerequsites and contact information.
+You can view the following [pdf](https://liberalarts.temple.edu/economics-41-requirements) to learn more about admission requirements, deadlines, prerequsites and contact information.
 
 ## Honors
 The Economics Department offers honors versions of two introductory economics courses:
