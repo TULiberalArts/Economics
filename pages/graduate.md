@@ -2,6 +2,8 @@
 title: Graduate
 permalink: /graduate/
 layout: page
+keywords: 'MA, Phd, economics, analysis, admissions, resources'
+description: >-
 published: true
 sidebar: true
 sidebar-content: |
