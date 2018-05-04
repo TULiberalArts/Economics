@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: home3
 description: >- 
-keywords: ''
+keywords: 'academic offerings, study economics, undergraduate, graduate'
 feature: true
 feature-title: Build Valuable Critical Thinking Skills and Methods of Analysis
 feature-image: media/dark hero image_bg.png
@@ -13,7 +13,7 @@ feature-body: >-
 published: true
 ---
 ## The Economic Way of Thinking
-Economics is a way of thinking that provides insights into all facets of our personal and professional lives, improving our understanding of the world and our own decision-making. This is invaluable in making sound decisions in any type of organization, and provides the foundation for many other academic and professional disciplines, such as management, marketing and finance. Economics is oriented around solving real-world  problems — not merely memorizing facts.  
+Economics is a way of thinking that provides insights into all facets of our personal and professional lives, improving our understanding of the world and our own decision-making. This is invaluable in making sound decisions in any type of organization, and provides the foundation for many other academic and professional disciplines, such as management, marketing and finance. Economics is oriented around solving real-world problems — not merely memorizing facts.  
 
 ## Help Resolve the Social Problems of Our Time
 [![AEAvideo](https://github.com/TULiberalArts/Economics/blob/master/media/Econ%20AES%20%20Video%20360x202.jpg?raw=true)](https://www.vimeo.com/135871291){:.img-right}
