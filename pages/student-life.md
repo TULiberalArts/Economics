@@ -2,7 +2,7 @@
 title: Student Life
 permalink: "/student-life/"
 layout: page
-keywords: ''
+keywords: 'internship opportunities, awards'
 description: >- 
 published: true
 ---
