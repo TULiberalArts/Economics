@@ -2,7 +2,7 @@
 title: Undergraduate
 permalink: /undergraduate/
 layout: page
-keywords: ''
+keywords: 'undergraduate, accelerated degree, mathematical economics, honors, research, resources'
 description: >-
 published: true
 sidebar: true
@@ -45,8 +45,15 @@ Thus, in business, a major problem that companies face is to earn at least enoug
 
 Similarly, in government, managers are required to achieve as much as they can with their limited budgets. And, of course, economic consulting firms bring specialized skills in problem solving that are beyond the capabilities of individual companies or government agencies.
 
-## Program Overview
+## BA in Economics
 The major in economics exposes a student to the economist's way of thinking about social problems and behavior. The major helps a student understand the economic aspects of current events and public policy and it is a good preparation for careers in public policy, law and business. The BA major, which also provides the essential background for study of economics, is designed for those who are planning for careers in economics, among other Liberal Arts fields, as well as professional careers. The BBA major is offered to students who want to acquire a general business background in addition to specialized exposure to economics.
+
+Learn More About the [BA in Economics](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/ba-economics/)
+
+## BA in Mathematical Economics (offered in both CLA and the College of Science and Technology-CST)
+The Departments of Economics and Mathematics offer the interdisciplinary Mathematical Economics program as a platform for systematic concentration in the mathematical approach to economics. Economics has progressed in the last several decades by making extensive use of mathematical techniques. As a result, students who wish to pursue graduate study in economics, finance, accounting and other disciplines that make an extensive use of economics need a thorough grounding in both economics and mathematics. The Mathematical Economics curriculum provides this grounding with a broad selection of courses that cover all important areas of economics and the mathematical tools required for a critical, deep mastery of these areas. This program is especially recommended for those students who intend to pursue graduate studies in Economics.
+
+Learn More About the [BA in Mathematical Economics](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/ba-mathematical-economics/)
  
 ## Economics Major in the Fox School of Business (Fox)
 The BBA major is offered to students who want to acquire a general business background in addition to specialized exposure to Economics. Please review the [Three-Year BBA Grid](https://liberalarts.temple.edu/sites/liberalarts/files/3yearBBAinEconomics.pdf).
