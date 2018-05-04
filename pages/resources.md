@@ -2,7 +2,7 @@
 title: Resources
 permalink: /resources/
 layout: page
-keywords: ''
+keywords: 'working papers, economic data, earnings, field salary range, support'
 description: >-
 published: true
 ---
