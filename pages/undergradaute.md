@@ -37,6 +37,8 @@ sidebar-content: |
    [(215) 204-8880](tel:2152048880)    
    [jvincent@temple.edu](mailto:jvincent@temple.edu)
 ---
+Have a mind for macro and micro analyses? At Temple University, you can earn an economics degree that will teach you to think critically and logically about the economy. The College of Liberal Arts has an [economics bachelors](#ba-in-economics) and a [mathematical economics bachelors](#ba-in-mathematical-economics) while the Fox School of Business has its own [economics major](#economics-major-in-the-fox-school-of-business-fox). Students can also get a head start on a masters degree with the [4+1 program](#4-1-program-in-economics-ba-ma) enroll in [honors courses](#honors), explore [research opportunities](#research-opportunities), prepare for [graduate work](#prepare-for-graduate-work) and view more [undergraduate resources](#undergraduate-resources).
+
 ![Economics Wall Image]({{site.baseurl}}/media/resized Econ Wall image.jpg){:.img-right}
 ## Where Can a Major in Economics Take You? 
 Graduates with an undergraduate major in economics, whether it is the liberal arts or the business major, will find that it has prepared them for a broad spectrum of jobs in business, economic consulting and government. The reason is that courses in economics emphasize using an orderly way of thinking about, and solving, problems that arise from having to make choices in situations that are beyond an individual’s direct experience. The abstract reasoning skills that are practiced in economics are highly valued where choosing efficiently in coordination with others is important. Everyone has to have the same basic problem-solving approach and economic training provides that.
@@ -50,8 +52,8 @@ The major in economics exposes a student to the economist's way of thinking abou
 
 Learn More About the [BA in Economics](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/ba-economics/)
 
-## BA in Mathematical Economics (offered in both CLA and the College of Science and Technology-CST)
-The Departments of Economics and Mathematics offer the interdisciplinary Mathematical Economics program as a platform for systematic concentration in the mathematical approach to economics. Economics has progressed in the last several decades by making extensive use of mathematical techniques. As a result, students who wish to pursue graduate study in economics, finance, accounting and other disciplines that make an extensive use of economics need a thorough grounding in both economics and mathematics. The Mathematical Economics curriculum provides this grounding with a broad selection of courses that cover all important areas of economics and the mathematical tools required for a critical, deep mastery of these areas. This program is especially recommended for those students who intend to pursue graduate studies in Economics.
+## BA in Mathematical Economics 
+The Departments of Economics and Mathematics offer the interdisciplinary Mathematical Economics program as a platform for systematic concentration in the mathematical approach to economics. This degree is offered in both CLA and the College of Science and Technology-CST. Economics has progressed in the last several decades by making extensive use of mathematical techniques. As a result, students who wish to pursue graduate study in economics, finance, accounting and other disciplines that make an extensive use of economics need a thorough grounding in both economics and mathematics. The Mathematical Economics curriculum provides this grounding with a broad selection of courses that cover all important areas of economics and the mathematical tools required for a critical, deep mastery of these areas. This program is especially recommended for those students who intend to pursue graduate studies in Economics.
 
 Learn More About the [BA in Mathematical Economics](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/ba-mathematical-economics/)
  
