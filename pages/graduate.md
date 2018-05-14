@@ -37,6 +37,8 @@ sidebar-content: |
    [(215) 204-8880](tel:2152048880)    
    [jvincent@temple.edu](mailto:jvincent@temple.edu)
 ---
+Earn an economics [masters degree](#ma-in-economics) or [doctoral degree](#phd-in-economics) as a full-time or part-time student at the College of Liberal Arts. Not ready to apply just yet? Find all the answers you need about the [admissions process](#admissions-process) and review our [graduate resources](#graduate-resources).
+
 ## Degrees and Programs of Study
 ![Economics Books]({{site.baseurl}}/media/economics-books.png){:.img-right}
 The Department of Economics offers full-time and part-time graduate programs leading to master’s (MA) and doctoral (Ph.D.) degrees. After completing the MA program, students should have the technical skills required for economic analysis of business and public policy. After completing the Ph.D. program, students should be able to conduct original research and advance knowledge in the field.
