@@ -6,11 +6,13 @@ keywords: 'working papers, economic data, earnings, field salary range, support'
 description: >-
 published: true
 ---
+Think an economics degree from Temple University might be right for you but aren’t quite ready to apply yet? Take a look at our working paper series, the [Center for Competitive Governments](#center-for-competitive-governments), [economic data websites](#econoimic-data-websites-and-more), available [opportunities and compensation in the field](#field-tarting-pay-and-median-mid-career-pay) and find out how you can [support the Department of Economics](#support-the-department-of-economics).
+
 ## Working Paper Series 
 The following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/2016%20Working%20Paper%20Series_0.pdf) contains a series of working papers by faculty in the department. You can download the corresponding Department of Economics at Temple University (DETU) Working Papers in PDF form.
 
 ![US Flag]({{site.baseurl}}/media/resized Econ american-flag.png){:.img-right}
-## Center For Competitive Governments
+## Center for Competitive Governments
 The [Center for Competitive Government](http://www.fox.temple.edu/cms_research/institutes-and-centers/center-for-competitive-government-2/) (formerly the Privatization Research Center) deals with description, evaluation and planning of innovations by government.
 
 ## Econoimic Data Websites and More
@@ -23,7 +25,7 @@ Your undergraduate major has a huge influence on your career. Our faculty member
 
 Also, data from the 2010 U.S. Census tells us that Economics majors have some of the best compensated careers. The table below shows a comparison of compensation data for a few selected majors, to put this claim in perspective. The data comes from the digital edition of the Wall Street Journal, November 14, 2011, and it is based on the report [What’s it Worth](http://cew.georgetown.edu/whatsitworth) by the Georgetown University Center on Education and the Workforce.
 
-Major fieldUnemployment1st 25% earningsMedian earningsTop 75% earnings.
+Major field Unemployment, 1st 25% earnings, Median earnings, Top 75% earnings.
 
 - Computer science: 5.6%	$50,000	$77,000	$102,000
 - ECONOMICS: 6.3%	$42,000	$69,000	$108,000
