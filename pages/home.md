@@ -34,10 +34,10 @@ The mission of the Department of Economics is to provide a program of study in e
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title="NEED CONTENT" 
-    content="NEED DESCRIPTION" 
+    title="Be a Mathematical Economics Major" 
+    content="Want to go to graduate school in economics or a related field and need to learn the necessary mathematics as well as economics to excel? Take a good look at the Mathematical Economics Major, an intercollegiate program offered by the Economics and Mathematics Departments for this very purpose." 
     image="" 
-    button-link=" " 
+    button-link="undergraduate/#ba-in-mathematical-economics " 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
@@ -53,7 +53,7 @@ The mission of the Department of Economics is to provide a program of study in e
         title="Earn your BA and MA in 5 Years" 
         content="Students who wish to earn a BA and an MA in economics may do so in a combined 4+1 program. Students begin graduate study during their undergraduate program and are able to count some electives towards both degrees." 
         image="" 
-        button-link="undergraduate/#4+1 Program in Economics: BA/MA" 
+        button-link="undergraduate/#4-1-program-in-economics-ba-ma" 
         button-text="Learn More" %}
       </div>
 </div>
