@@ -1,9 +1,9 @@
 ---
 title: Student Life
 permalink: "/student-life/"
-layout: page
+layout: tla_page
 keywords: 'internship opportunities, awards'
-description: >- 
+description: >-
 published: true
 ---
 ## Internships/Opportunities
