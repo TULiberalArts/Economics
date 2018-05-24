@@ -1,7 +1,7 @@
 ---
 title: Next Stops
 permalink: /next-stops/
-layout: page
+layout: tla_page
 keywords: 'careers, alumni, treasury, employment, apply, visit, transfer'
 description: >-
 published: true
@@ -19,7 +19,7 @@ There are numerous internship opportunities available for economics students in 
 
 ## Careers
 ![US Treasury]({{site.baseurl}}/media/resized Treasury Image 1-1024x448.png){:.img-right}
-Individuals with a degree in Economics enter careers/graduate programs in many areas. Economics is a good preparation for careers in public policy, law and business.  The BA major, which also provides the essential background for study of Economics, is designed for those who are planning for careers in Economics, among other Liberal Arts fields, as well as professional careers. The BBA major is offered to students who want to acquire a general business background in addition to specialized exposure to Economics. 
+Individuals with a degree in Economics enter careers/graduate programs in many areas. Economics is a good preparation for careers in public policy, law and business.  The BA major, which also provides the essential background for study of Economics, is designed for those who are planning for careers in Economics, among other Liberal Arts fields, as well as professional careers. The BBA major is offered to students who want to acquire a general business background in addition to specialized exposure to Economics.
 
 ## Economics Alumni
 Our undergraduate and graduate syudents go into many different fields upon completion of our program(s). Explore the list below to see where some of our alumni are!
@@ -47,7 +47,7 @@ Our undergraduate and graduate syudents go into many different fields upon compl
 - Timothy Cornish (2014) Marsh & McLennan, Marsh TRAC Management Trainee
 - Nicholas Hakun (2014) Teach for America
 
-**Distinguished Graduate Alumni** 
+**Distinguished Graduate Alumni**
 - James Bailey, Ph.D. 2014, Assistant Professor at [Creighton University](https://www.creighton.edu/)
 - Shu Deng, Ph.D. 2014, Senior Economist II at [IHS, Inc.](http://www.ihs.com/index.aspx), The Center for Modeling and Forecasting
 - Paul Marmora, Ph.D. 2015, Assistant Professor, Randolph Macon College, Ashland, Virginia

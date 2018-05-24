@@ -1,8 +1,8 @@
 ---
 title: Home
 permalink: /
-layout: home3
-description: >- 
+layout: tla_home
+description: >-
 keywords: 'academic offerings, study economics, undergraduate, graduate'
 feature: true
 feature-title: Build Valuable Critical Thinking Skills and Methods of Analysis
@@ -19,7 +19,7 @@ Economics is a way of thinking that provides insights into all facets of our per
 [![AEAvideo](https://github.com/TULiberalArts/Economics/blob/master/media/Econ%20AES%20%20Video%20360x202.jpg?raw=true)](https://www.vimeo.com/135871291){:.img-right}
 The mission of the Department of Economics is to provide a program of study in economics that fosters the intellectual growth of our undergraduate and graduate students, cultivates a stimulating research environment for the faculty, enhances the scholarship of the University and contributes to the field of economics while employing the analytical tools of the discipline.
 
-**Check out the American Economic Association video featured to the right titled _"A career in Economics... it's much more than you think!_"** 
+**Check out the American Economic Association video featured to the right titled _"A career in Economics... it's much more than you think!_"**
 
 ## Academic offerings
 
@@ -33,27 +33,27 @@ The mission of the Department of Economics is to provide a program of study in e
  - [4+1 BA and Master’s in Economics](https://develop.cla.temple.edu/economics/undergraduate/#41-program-in-economics-bama)
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="Be a Mathematical Economics Major" 
-    content="Want to go to graduate school in economics or a related field and need to learn the necessary mathematics as well as economics to excel? Take a good look at the Mathematical Economics Major, an intercollegiate program offered by the Economics and Mathematics Departments for this very purpose." 
-    image="" 
-    button-link="undergraduate/#ba-in-mathematical-economics " 
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title="Be a Mathematical Economics Major"
+    content="Want to go to graduate school in economics or a related field and need to learn the necessary mathematics as well as economics to excel? Take a good look at the Mathematical Economics Major, an intercollegiate program offered by the Economics and Mathematics Departments for this very purpose."
+    image=""
+    button-link="undergraduate/#ba-in-mathematical-economics "
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="NEED CONTENT" 
-      content="NEED DESCRIPTION" 
-      image="" 
-      button-link="" 
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title="NEED CONTENT"
+      content="NEED DESCRIPTION"
+      image=""
+      button-link=""
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title="Earn your BA and MA in 5 Years" 
-        content="Students who wish to earn a BA and an MA in economics may do so in a combined 4+1 program. Students begin graduate study during their undergraduate program and are able to count some electives towards both degrees." 
-        image="" 
-        button-link="undergraduate/#4-1-program-in-economics-ba-ma" 
+      <div class="col m12 l4">{% include cards/card2-image.html
+        title="Earn your BA and MA in 5 Years"
+        content="Students who wish to earn a BA and an MA in economics may do so in a combined 4+1 program. Students begin graduate study during their undergraduate program and are able to count some electives towards both degrees."
+        image=""
+        button-link="undergraduate/#4-1-program-in-economics-ba-ma"
         button-text="Learn More" %}
       </div>
 </div>
