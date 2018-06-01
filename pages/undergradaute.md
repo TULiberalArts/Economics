@@ -1,41 +1,15 @@
 ---
-title: Undergraduate
-permalink: /undergraduate/
+# global predefined variables
 layout: page
-keywords: 'undergraduate, accelerated degree, mathematical economics, honors, research, resources'
-description: >-
+permalink: /undergraduate/
 published: true
+# meta-data variables
+title: Undergraduate
+description: >-
+keywords: 'undergraduate, accelerated degree, mathematical economics, honors, research, resources'
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Dr. Michael A. Leeds  
-   831 Ritter Annex  
-   [(215) 204-8030](tel:2152048030)  
-   [mleeds@temple.edu](mailto:mleeds@temple.edu)  
-   
-   ___
-   
-   **Director of Undergraduate Studies:**  
-   Moritz Ritter    
-   809 Ritter Annex   
-   [(215) 204-5029](tel:2152045029)    
-   [moritz.ritter@temple.edu](mailto:moritz.ritter@temple.edu)   
-   
-   ___
-   
-   **Administrator:**  
-   Ms. Belinda Wilson    
-   821 Ritter Annex    
-   [(215) 204-0472](tel:2152040472)    
-   [bwilson@temple.edu](mailto:jvincent@temple.edu)    
-   
-   ___
-
-   **Coordinators:**  
-   Ms. Janice Vincent    
-   825 Ritter Annex    
-   [(215) 204-8880](tel:2152048880)    
-   [jvincent@temple.edu](mailto:jvincent@temple.edu)
+sidebar_content: sidebars/undergraduate.html
 ---
 Have a mind for macro and micro analyses? At Temple University, you can earn an economics degree that will teach you to think critically and logically about the economy. The College of Liberal Arts has an [economics bachelors](#ba-in-economics) and a [mathematical economics bachelors](#ba-in-mathematical-economics) while the Fox School of Business has its own [economics major](#economics-major-in-the-fox-school-of-business-fox). Students can also get a head start on a masters degree with the [4+1 program](#4-1-program-in-economics-ba-ma) enroll in [honors courses](#honors), explore [research opportunities](#research-opportunities), prepare for [graduate work](#prepare-for-graduate-work) and view more [undergraduate resources](#undergraduate-resources).
 
