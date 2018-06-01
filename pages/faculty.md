@@ -1,8 +1,12 @@
 ---
-title: Faculty
+# global predefined variables
+layout: tla_faculty
 permalink: /faculty/
-layout: faculty2
-keywords: 'economics, faculty'
-description: >-
 published: true
+# meta-data variables
+title: Faculty
+description: >-
+keywords: 'economics, faculty'
+# custom variables
+sidebar: false
 ---
