@@ -1,10 +1,14 @@
 ---
-title: Student Life
-permalink: "/student-life/"
+# global predefined variables
 layout: tla_page
-keywords: 'internship opportunities, awards'
-description: >-
+permalink: /student-life/
 published: true
+# meta-data variables
+title: Student Life
+description: >-
+keywords: 'internship opportunities, awards'
+# custom variables
+sidebar: false
 ---
 ## Internships/Opportunities
 Economics Majors have access to internship opportunities through the Economics student organization, The Economics Society (TES). Information on TES is available on their [website](https://econclub.wordpress.com). Contact them at: [econclub@temple.edu](mailto:econclub@temple.edu)
