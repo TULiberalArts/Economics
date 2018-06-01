@@ -1,10 +1,14 @@
 ---
-title: Next Stops
-permalink: /next-stops/
+# global predefined variables
 layout: tla_page
-keywords: 'careers, alumni, treasury, employment, apply, visit, transfer'
-description: >-
+permalink: /next-stops/
 published: true
+# meta-data variables
+title: Next Stops
+description: >-
+keywords: 'careers, alumni, treasury, employment, apply, visit, transfer'
+# custom variables
+sidebar: false
 ---
 An economics degree from Temple University will prepare you for a range of [career opportunities](#careers) —check out some of the exciting jobs our [alumni](#economics-alumni) have landed! Come [visit](#visit-us) us today, view our application deadlines and [apply](#apply) when you’re ready to [make your declaration](#make-your-declaration) at the College of Liberal Arts.   
 
