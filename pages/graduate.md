@@ -1,41 +1,15 @@
 ---
-title: Graduate
+# global predefined variables
+layout: tla_page
 permalink: /graduate/
-layout: page
-keywords: 'MA, Phd, economics, analysis, admissions, resources'
-description: >-
 published: true
+# meta-data variables
+title: Graduate
+description: >-
+keywords: 'MA, Phd, economics, analysis, admissions, resources'
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Dr. Michael A. Leeds  
-   831 Ritter Annex  
-   [(215) 204-8030](tel:2152048030)  
-   [mleeds@temple.edu](mailto:mleeds@temple.edu)  
-   
-   ___
-   
-   **Director of Graduate Studies:**  
-   Douglas Webber    
-   877 Ritter Annex    
-   [(215) 204-5025](tel:2152045025)    
-   [douglas.webber@temple.edu](mailto:douglas.webber@temple.edu)    
-   
-   ___
-   
-   **Administrator:**  
-   Ms. Belinda Wilson    
-   821 Ritter Annex    
-   [(215) 204-0472](tel:2152040472)    
-   [bwilson@temple.edu](mailto:jvincent@temple.edu)    
-   
-   ___
-
-   **Coordinators:**  
-   Ms. Janice Vincent    
-   825 Ritter Annex    
-   [(215) 204-8880](tel:2152048880)    
-   [jvincent@temple.edu](mailto:jvincent@temple.edu)
+sidebar_content: sidebars/graduate.html
 ---
 Earn an economics [masters degree](#ma-in-economics) or [doctoral degree](#phd-in-economics) as a full-time or part-time student at the College of Liberal Arts. Not ready to apply just yet? Find all the answers you need about the [admissions process](#admissions-process) and review our [graduate resources](#graduate-resources).
 
