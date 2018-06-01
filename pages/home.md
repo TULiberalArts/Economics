@@ -1,16 +1,20 @@
 ---
-title: Home
-permalink: /
+# global predefined variables
 layout: tla_home
+permalink: /
+published: true
+# meta-data variables
+title: Home
 description: >-
 keywords: 'academic offerings, study economics, undergraduate, graduate'
+# custom variables
+sidebar: false
 feature: true
 feature-title: Build Valuable Critical Thinking Skills and Methods of Analysis
 feature-image: media/dark hero image_bg.png
 feature-body: >-
   The Department of Economics provides a rigorous training that is valuable in the competitive
   labor market and a strong basis for graduate studies in business, law and the social sciences.
-published: true
 ---
 ## The Economic Way of Thinking
 Economics is a way of thinking that provides insights into all facets of our personal and professional lives, improving our understanding of the world and our own decision-making. This is invaluable in making sound decisions in any type of organization, and provides the foundation for many other academic and professional disciplines, such as management, marketing and finance. Economics is oriented around solving real-world problems — not merely memorizing facts.  
