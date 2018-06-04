@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
+  Know your opportunities for scholarships, awards, and internships as an Economics student at Temple University,
+  and join the economics student org, The Economics Society (TES), at the College of Liberal Arts.
 keywords: 'internship opportunities, awards'
 # custom variables
 sidebar: false
