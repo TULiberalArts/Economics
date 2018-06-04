@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
+  Learn about your career opportunities with a degree in Economics from Temple University, straight from 
+  our alumni! Visit us, make your declaration, learn transfer options, and apply to the College of Liberal Arts.
 keywords: 'careers, alumni, treasury, employment, apply, visit, transfer'
 # custom variables
 sidebar: false
