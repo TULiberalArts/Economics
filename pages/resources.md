@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Resources
 description: >-
+  Check out the Center for Competitive Governments, economic data websites, available opportunities and compensation 
+  in the field, and support Temple University’s Department of Economics in the College of Liberal Arts.
 keywords: 'working papers, economic data, earnings, field salary range, support'
 # custom variables
 sidebar: false
