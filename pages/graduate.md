@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Graduate
 description: >-
+  As a full-time or part-time student at the College of Liberal Arts, earn your 
+  MA or PhD in Economics. Review our admissions process and graduate resources.
 keywords: 'MA, Phd, economics, analysis, admissions, resources'
 # custom variables
 sidebar: true
