@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
+ Earn a Bachelor in Economics or Mathematical Economics from the College of Liberal Arts, or explore the economics major from the 
+ Fox School of Business at Temple University. Explore the 4+1 Accelerated Degree program, honors courses, and research opportunities.
 keywords: 'undergraduate, accelerated degree, mathematical economics, honors, research, resources'
 # custom variables
 sidebar: true
