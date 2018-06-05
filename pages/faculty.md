@@ -10,4 +10,6 @@ description: >-
 keywords: 'economics, faculty'
 # custom variables
 sidebar: false
+affiliated: true
+affiliated_content: profiles/affiliated.html
 ---
