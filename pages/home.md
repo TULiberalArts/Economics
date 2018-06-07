@@ -48,18 +48,18 @@ The mission of the Department of Economics is to provide a program of study in e
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
-      title="NEED CONTENT"
-      content="NEED DESCRIPTION"
+      title="Earn your BA and MA in 5 Years"
+      content="Students who wish to earn a BA and an MA in economics may do so in a combined 4+1 program. Students begin graduate study during their undergraduate program and are able to count some electives towards both degrees."
       image=""
-      button-link=""
+      button-link="undergraduate/#4-1-program-in-economics-ba-ma"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
-        title="Earn your BA and MA in 5 Years"
-        content="Students who wish to earn a BA and an MA in economics may do so in a combined 4+1 program. Students begin graduate study during their undergraduate program and are able to count some electives towards both degrees."
+        title="Professor William J. Stull named Temple University Great Teacher for 2018"
+        content="Professor William J. Stull was named Temple University Great Teacher for 2018! You can read more about Professor Stull's distinguished professional achievement."
         image=""
-        button-link="undergraduate/#4-1-program-in-economics-ba-ma"
+        button-link="https://liberalarts.temple.edu/news/professor-william-j-stull-named-temple-university-great-teacher-2018"
         button-text="Learn More" %}
       </div>
 </div>
