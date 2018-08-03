@@ -6,7 +6,7 @@ Economics is statically generated with [Jekyll](https://jekyllrb.com) and hosted
 
 | Links |  |
 | --- | --- |
-| Development | https://develop.cla.temple.edu/liberal-studies/ |
+| Development | https://develop.cla.temple.edu/economics/ |
 | Production | http://www.cla.temple.edu/economics/ |
 
 ## Content Structure
