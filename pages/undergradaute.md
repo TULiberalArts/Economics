@@ -55,6 +55,6 @@ Economics is excellent preparation for graduate school, and is widely considered
 ## Undergraduate Resources
 - Changing your Major: Contact [CLA Advising](http://www.cla.temple.edu/advising/) for the CLA and CST majors and [Fox Advising](http://www.fox.temple.edu/cms_academics/dept/advising/) for the FSBM major
 - Graduation Application Process: Contact [CLA Advising](http://www.cla.temple.edu/advising/) for the CLA and CST majors and [Fox Advising](http://www.fox.temple.edu/cms_academics/dept/advising/) for the FSBM major
-- [Student Financial Services](http://www.temple.edu/sfs/)
+- [Student Financial Services](https://www.temple.edu/admissions/financial-aid)
 - [Undergraduate Policies](http://bulletin.temple.edu/undergraduate/academic-policies/).
 - [Undergraduate FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/Economics%20Undergraduate%20FAQ%27s.pdf)
