@@ -19,8 +19,6 @@ Earn an economics [masters degree](#ma-in-economics) or [doctoral degree](#phd-i
 ![Economics Books]({{site.baseurl}}/media/economics-books.png){:.img-right}
 The Department of Economics offers full-time and part-time graduate programs leading to master’s (MA) and doctoral (Ph.D.) degrees. After completing the MA program, students should have the technical skills required for economic analysis of business and public policy. After completing the Ph.D. program, students should be able to conduct original research and advance knowledge in the field.
 
-Please visit the [Economics Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/economics) to learn more about graduate program requirements and instructions on how to apply.
-
 ## M.A. in Economics
 Our master’s degree in economics helps students understand contemporary economic theory and its application to problems in industry, business and government. Students can focus on a specific area of economics or follow a general course of study. Potential areas of specialization include: econometrics, financial economics, health economics, international monetary economics and labor economics. The program provides specialized study and can serve as a terminal degree or a foundation for those who intend to apply to the PhD program.
 
