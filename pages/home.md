@@ -6,11 +6,12 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  Become valuable in a competitive labor market: earn your undergraduate or graduate degree in Economics at 
+  Become valuable in a competitive labor market: earn your undergraduate or graduate degree in Economics at
   Temple University’s College of Liberal Arts. View our full academic offerings to study economics here.
 keywords: 'academic offerings, study economics, undergraduate, graduate'
 # custom variables
 sidebar: false
+promotion-table: true
 feature: true
 feature-title: Build Valuable Critical Thinking Skills and Methods of Analysis
 feature-image: media/dark hero image_bg.png
