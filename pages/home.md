@@ -38,6 +38,8 @@ The mission of the Department of Economics is to provide a program of study in e
  - [Management Career Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-management-career/)
  - [Political Economy Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-political-economy/)
  - [4+1 BA and Master’s in Economics](https://develop.cla.temple.edu/economics/undergraduate/#41-program-in-economics-bama)
+ 
+ ___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
