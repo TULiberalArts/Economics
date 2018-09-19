@@ -24,7 +24,7 @@ There are numerous internship opportunities available for economics students in 
 - Leading mutual fund, brokerage and consulting firms
 
 ## Careers
-![US Treasury]({{site.baseurl}}/media/resized Treasury Image 1-1024x448.png){:.img-right}
+![US Treasury]({{site.baseurl}}/media/resized Treasury Image 1-1024x448.png){:.responsive-img .img-right}
 Individuals with a degree in Economics enter careers/graduate programs in many areas. Economics is a good preparation for careers in public policy, law and business.  The BA major, which also provides the essential background for study of Economics, is designed for those who are planning for careers in Economics, among other Liberal Arts fields, as well as professional careers. The BBA major is offered to students who want to acquire a general business background in addition to specialized exposure to Economics.
 
 ## Economics Alumni
