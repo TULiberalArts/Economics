@@ -9,7 +9,5 @@ description: >-
   Meet our faculty in the Economics department of the College of Liberal Arts at Temple University.
 keywords: 'economics, faculty'
 # custom variables
-sidebar: false
-affiliated: true
-affiliated_content: profiles/affiliated.html
+affiliated: profiles/affiliated.html
 ---

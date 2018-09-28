@@ -6,12 +6,11 @@ published: true
 # meta-data variables
 title: Graduate
 description: >-
-  As a full-time or part-time student at the College of Liberal Arts, earn your 
+  As a full-time or part-time student at the College of Liberal Arts, earn your
   MA or PhD in Economics. Review our admissions process and graduate resources.
 keywords: 'MA, Phd, economics, analysis, admissions, resources'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/graduate.html
+sidebar: sidebars/graduate.html
 ---
 Earn an economics [masters degree](#ma-in-economics) or [doctoral degree](#phd-in-economics) as a full-time or part-time student at the College of Liberal Arts. Not ready to apply just yet? Find all the answers you need about the [admissions process](#admissions-process) and review our [graduate resources](#graduate-resources).
 
@@ -22,7 +21,7 @@ The Department of Economics offers full-time and part-time graduate programs lea
 ## M.A. in Economics
 Our master’s degree in economics helps students understand contemporary economic theory and its application to problems in industry, business and government. Students can focus on a specific area of economics or follow a general course of study. Potential areas of specialization include: econometrics, financial economics, health economics, international monetary economics and labor economics. The program provides specialized study and can serve as a terminal degree or a foundation for those who intend to apply to the PhD program.
 
-The MA in Economics prepares the student to understand contemporary economic theory and its application to problems arising in industry, business, and government. The program gives the student an opportunity to specialize in one of two areas: (a) general economics or (b) applied economics and financial markets. The program is primarily dedicated to producing well-trained researchers and managers in the field of Economics. Many students go on to enter Ph.D. programs. 
+The MA in Economics prepares the student to understand contemporary economic theory and its application to problems arising in industry, business, and government. The program gives the student an opportunity to specialize in one of two areas: (a) general economics or (b) applied economics and financial markets. The program is primarily dedicated to producing well-trained researchers and managers in the field of Economics. Many students go on to enter Ph.D. programs.
 
 Learn more about the [MA in Economics](http://bulletin.temple.edu/graduate/scd/cla/economics-ma/)
 
@@ -38,5 +37,5 @@ Please visit the [Economics Graduate Bulletin](http://bulletin.temple.edu/gradua
 - [Graduate Program FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/Economics%20Graduate%20Program%20FAQ.pdf)- If you still have questions, please [contact us](mailto:claecon@temple.edu).
 - [Graduate Student Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Economics_MA_Handbook_0.pdf)
 - [Graduate Forms](http://www.temple.edu/grad/forms/index.htm)
-- [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm) 
-- [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm) 
+- [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
+- [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)

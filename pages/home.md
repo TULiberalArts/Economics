@@ -10,7 +10,6 @@ description: >-
   Temple University’s College of Liberal Arts. View our full academic offerings to study economics here.
 keywords: 'academic offerings, study economics, undergraduate, graduate'
 # custom variables
-sidebar: false
 promotion-table: true
 feature: true
 feature-title: Build Valuable Critical Thinking Skills and Methods of Analysis

@@ -10,7 +10,6 @@ description: >-
   and join the economics student org, The Economics Society (TES), at the College of Liberal Arts.
 keywords: 'internship opportunities, awards'
 # custom variables
-sidebar: false
 ---
 ## Internships/Opportunities
 Economics Majors have access to internship opportunities through the Economics student organization, The Economics Society (TES). Information on TES is available on their [website](https://econclub.wordpress.com). Contact them at: [econclub@temple.edu](mailto:econclub@temple.edu)
