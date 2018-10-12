@@ -58,7 +58,7 @@ The mission of the Department of Economics is to provide a program of study in e
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
-        title="Economics Department’s First-Ever Distinguished Alumni Award"
+        title="Dr. Lacy Hunt Awarded Economics Department’s First-Ever Distinguished Alumni Award"
         content="Dr. Lacy Hunt was awarded the Economics Department’s First-Ever Distinguished Alumni Award."
         image=""
         button-link="https://liberalarts.temple.edu/news/dr-lacy-hunt-awarded-economics-department-s-first-ever-distinguished-alumni-award"
