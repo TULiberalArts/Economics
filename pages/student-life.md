@@ -12,6 +12,10 @@ keywords: 'internship opportunities, awards'
 # custom variables
 ---
 ## Internships/Opportunities
+
+### Project-based Internships
+Projects allow an intern to apply economic principles to everyday organizational and business problems.  Businesses need to grow to survive and projects are a focused way to build the economic platform that ensures that growth and sustainability. Visit the [Economics Project Based Internship Program website](https://sites.temple.edu/economicsinternships/) for information on how to engage in a project with an organization that is striving to grow.
+
 Economics Majors have access to internship opportunities through the Economics student organization, The Economics Society (TES). Information on TES is available on their [website](https://econclub.wordpress.com). Contact them at: [econclub@temple.edu](mailto:econclub@temple.edu)
 
 ![Leeds and Student]({{site.baseurl}}/media/resized Leeds and Student- Award.jpg){:.responsive-img .img-right}
