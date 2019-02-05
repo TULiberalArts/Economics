@@ -32,11 +32,11 @@ The mission of the Department of Economics is to provide a program of study in e
  - [BA in Economics](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/ba-economics/)
  - [BA in Mathematical Economics](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/ba-mathematical-economics/)
  - [Minor in Economics](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/minor-economics/)
-  - [4+1 BA and Master’s in Economics](https://develop.cla.temple.edu/economics/undergraduate/#41-program-in-economics-bama)
- - [MA in Economics](http://bulletin.temple.edu/graduate/scd/cla/economics-ma/)
- - [PhD in Economics](http://bulletin.temple.edu/graduate/scd/cla/economics-phd/)
  - [Management Career Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-management-career/)
  - [Political Economy Certificate](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-political-economy/)
+ - [4+1 BA and Master’s in Economics](https://develop.cla.temple.edu/economics/undergraduate/#41-program-in-economics-bama)
+ - [MA in Economics](http://bulletin.temple.edu/graduate/scd/cla/economics-ma/)
+ - [PhD in Economics](http://bulletin.temple.edu/graduate/scd/cla/economics-phd/)
 
  ___
 
