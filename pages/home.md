@@ -58,10 +58,10 @@ The mission of the Department of Economics is to provide a program of study in e
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
-        title="Dr. Lacy Hunt Awarded Economics Department’s First-Ever Distinguished Alumni Award"
-        content="On September 19th, the first PhD awardee from our department was honored and gave a lecture."
+        title="Anthony DeFusco's Prize-Winning Paper"
+        content=" Learn about the honor bestowed to Anthony DeFusco by the Journal of Finance and more in his interview."
         image=""
-        button-link="https://liberalarts.temple.edu/news/dr-lacy-hunt-awarded-economics-department-s-first-ever-distinguished-alumni-award"
+        button-link="https://sites.temple.edu/economicsattemple/2019/02/19/anthony-defuscos-prize-winning-paper/"
         button-text="Learn More" %}
       </div>
 </div>
