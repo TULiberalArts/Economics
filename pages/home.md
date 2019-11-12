@@ -27,7 +27,7 @@ The mission of the Department of Economics is to provide a program of study in e
 **American Economic Association - A career in Economics... it's much more than you think!"**<br>
 ![AEAvideo](https://github.com/TULiberalArts/Economics/blob/master/media/Econ%20AES%20%20Video%20360x202.jpg?raw=true){:.responsive-img .img-right}
 
-**Check out the American Economic Association video featured to the right titled [_"A career in Economics... it's much more than you think!_"](https://vimeo.com/americaneconassociation/career-in-economics)**
+**Check out the American Economic Association video featured to the right titled [_"A career in Economics... it's much more than you think!_"](https://vimeo.com/135871291)**
 
 ___
 
