@@ -25,8 +25,8 @@ Economics is a way of thinking that provides insights into all facets of our per
 The mission of the Department of Economics is to provide a program of study in economics that fosters the intellectual growth of our undergraduate and graduate students, cultivates a stimulating research environment for the faculty, enhances the scholarship of the University and contributes to the field of economics while employing the analytical tools of the discipline.
 
 **American Economic Association - A career in Economics... it's much more than you think!"**<br>
-
-<div align="center" class="video-container"><iframe src="https://player.vimeo.com/video/135871291" width="560" height="315" frameborder="0" allow="autoplay; fullscreen" allowfullscreen> </iframe><p><a href="https://vimeo.com/135871291">A career in Economics...it&#039;s much more than you think</a> from <a href="https://vimeo.com/americaneconassociation">American Economic Association</a> on <a href="https://vimeo.com">Vimeo</a></p>
+<iframe src="https://player.vimeo.com/video/135871291" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/135871291">A career in Economics...it&#039;s much more than you think</a> from <a href="https://vimeo.com/americaneconassociation">American Economic Association</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
   
 ___
 
