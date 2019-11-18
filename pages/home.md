@@ -60,7 +60,7 @@ ___
         title="Job Market Candidates"
         content="Meet our PhD students who are on the job market."
         image=""
-        button-link="https://www.cla.temple.edu/economics/graduate/job-market-candidates"
+        button-link="https://www.cla.temple.edu/economics/graduate#job-market-candidates"
         button-text="Learn More" %}
       </div>
 </div>
