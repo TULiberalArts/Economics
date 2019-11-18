@@ -36,14 +36,14 @@ Two of our PhD candidates are on the 2020 job market. Here is brief information 
 <details>
   <summary><strong>Cynthia Cao</strong></summary>
 <p>Fields: Financial Economics, Macroeconomics, Monetary Economics, International Economics.</p>
-<p>Job Market Paper title: International Diversification Portfolio in an Open Market Economy: The Role of Endogenous Nominal Exchange Rate.</p> 
+<p><a href="https://drive.google.com/file/d/1ifWXYjuHhllfZUUya8-6tVyV9lfFPNQg/view?usp=sharing">Job Market Paper title: International Diversification Portfolio in an Open Market Economy: The Role of Endogenous Nominal Exchange Rate.</a></p> 
 <p><a href="https://sites.temple.edu/cynthiacao/">Website</a></p>
 </details>
 
 <details>
   <summary><strong>Emmanuel Selorm Tsyawo</strong></summary>
 <p>Fields: Microeconometrics, Empirical Industrial Organization</p>
-<p>Job Market Paper title: R&D spillover effects on firm innovation – Estimating the spatial matrix from panel data</p> 
+<p><p><a href="https://estsyawo.github.io/Tsyawo_JMP.pdf#">Job Market Paper title: R&D spillover effects on firm innovation – Estimating the spatial matrix from panel data</a></p>
 <p><a href="https://estsyawo.github.io/index.html">Website</a></p>
 </details>
 
