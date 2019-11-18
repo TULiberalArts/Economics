@@ -43,9 +43,9 @@ Two of our PhD candidates are on the 2020 job market. Here is brief information 
 <details>
   <summary><strong>Emmanuel Selorm Tsyawo</strong></summary>
 <p>Fields: Microeconometrics, Empirical Industrial Organization</p>
-<p><p><a href="https://estsyawo.github.io/Tsyawo_JMP.pdf#">Job Market Paper title: R&D spillover effects on firm innovation – Estimating the spatial matrix from panel data</a></p>
+<p><a href="https://estsyawo.github.io/Tsyawo_JMP.pdf#">Job Market Paper title: R&D spillover effects on firm innovation – Estimating the spatial matrix from panel data</a></p>
 <p><a href="https://estsyawo.github.io/index.html">Website</a></p>
-</details>
+</details><br>
 
 ___
 
