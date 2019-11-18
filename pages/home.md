@@ -57,10 +57,10 @@ ___
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
-        title="Anthony DeFusco's Prize-Winning Paper"
-        content=" Learn about the honor bestowed to Anthony DeFusco by the Journal of Finance and more in his interview."
+        title="Job Market Candidates"
+        content="Meet our PhD students who are on the job market."
         image=""
-        button-link="https://sites.temple.edu/economicsattemple/2019/02/19/anthony-defuscos-prize-winning-paper/"
+        button-link="https://sites.temple.edu/econgradprograms/job-market-candidates/"
         button-text="Learn More" %}
       </div>
 </div>
