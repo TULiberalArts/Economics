@@ -47,6 +47,8 @@ Two of our PhD candidates are on the 2020 job market. Here is brief information 
 <p><a href="https://estsyawo.github.io/index.html">Website</a></p>
 </details>
 
+___
+
 ## Admissions Process
 Please visit the [Economics Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/economics-ma/#admissiontext) to learn more about graduate program requirements and instructions on how to apply.
 
