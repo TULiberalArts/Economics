@@ -30,6 +30,19 @@ The Ph.D. in economics is designed to prepare the student for university teachin
 
 Learn more about the [PhD in Economics](http://bulletin.temple.edu/graduate/scd/cla/economics-phd/)
 
+### Job Market Candidates
+Two of our PhD candidates are on the 2020 job market. Here is brief information about each:
+
+**Cynthia Cao**<br>
+Fields: Financial Economics, Macroeconomics, Monetary Economics, International Economics<br>
+Job Market Paper title: International Diversification Portfolio in an Open Market Economy: The Role of Endogenous Nominal Exchange Rate<br>
+- [Website](https://sites.temple.edu/cynthiacao/) 
+
+**Emmanuel Selorm Tsyawo**<br>
+Fields: Microeconometrics, Empirical Industrial Organization<br>
+Job Market Paper title: R&D spillover effects on firm innovation – Estimating the spatial matrix from panel data<br>
+- [Website](https://estsyawo.github.io/index.html)<br>
+
 ## Admissions Process
 Please visit the [Economics Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/economics-ma/#admissiontext) to learn more about graduate program requirements and instructions on how to apply.
 
