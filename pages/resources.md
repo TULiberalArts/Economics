@@ -14,7 +14,7 @@ keywords: 'working papers, economic data, earnings, field salary range, support'
 Think an economics degree from Temple University might be right for you but aren’t quite ready to apply yet? Take a look at our working paper series, the [Center for Competitive Governments](#center-for-competitive-governments), [economic data websites](#econoimic-data-websites-and-more), available [opportunities and compensation in the field](#field-tarting-pay-and-median-mid-career-pay) and find out how you can [support the Department of Economics](#support-the-department-of-economics).
 
 ## Working Paper Series
-The following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/2016%20Working%20Paper%20Series_0.pdf) contains a series of working papers by faculty in the department. You can download the corresponding Department of Economics at Temple University (DETU) Working Papers in PDF form.
+The economics department has maintained a working paper series since 2010. Papers in the series are authored or coauthored by department faculty and graduate students. Follow the link to view [the working paper series](https://econpapers.repec.org/paper/temwpaper/). 
 
 ![US Flag]({{site.baseurl}}/media/resized Econ american-flag.png){:.responsive-img .img-right}
 ## Center for Competitive Governments
