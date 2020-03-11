@@ -40,7 +40,7 @@ ___
  ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Be a Mathematical Economics Major"
     content="Want to go to graduate school in economics or a related field and need to learn the necessary mathematics as well as economics to excel? Take a good look at the Mathematical Economics Major, an intercollegiate program offered by the Economics and Mathematics Departments for this very purpose."
     image=""
@@ -48,7 +48,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Earn your BA and MA in 5 Years"
       content="Students who wish to earn a BA and an MA in economics may do so in a combined 4+1 program. Students begin graduate study during their undergraduate program and are able to count some electives towards both degrees."
       image=""
@@ -56,7 +56,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Job Market Candidates"
         content="Meet our PhD students who are on the job market."
         image=""
