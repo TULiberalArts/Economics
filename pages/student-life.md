@@ -11,7 +11,9 @@ description: >-
 keywords: 'internship opportunities, awards'
 # custom variables
 ---
-## Internships/Opportunities
+## Economics Internship Opportunities
+The College of Liberal Arts recommends all students pursue internships to gain experiential learning that rounds out the skills and knowledge they acquire in the classroom. Economics students have access to a wealth of exciting internship opportunities in and around Philadelphia that will benefit them greatly in their careers.
+
 Economics Majors have access to internship opportunities through the Economics student organization, The Economics Society (TES). Information on TES is available on their [website](https://econclub.wordpress.com). You can contact them at: [econclub@temple.edu](mailto:econclub@temple.edu)
 
 ### Project-based Internships
