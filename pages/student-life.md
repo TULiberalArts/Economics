@@ -28,5 +28,10 @@ First Up supports and advocates for Pre-Kindergarten providers in the City of Ph
 ___
 
 ![Leeds and Student]({{site.baseurl}}/media/resized Leeds and Student- Award.jpg){:.responsive-img .img-right}
-## Awards
-Graduating seniors majoring in Economics (CLA or Fox) or Mathematical Economics (CLA or CST) are eligible to be considered for the Sun Award in Economics for outstanding achievements as an undergraduate economics major. For more details, contact the Economic Faculty Advisor.
+## Economics Scholarships, Awards and Financial Aid
+Economics degree and certificate students are encouraged to apply for some of the hundreds of scholarships, awards and financial aid opportunities made available by Temple University, the College of Liberal Arts and external sources. Click the link for your program below to explore options for saving on tuition relative to that program.
+
+- [Economics BA](https://www.temple.edu/academics/degree-programs/economics-major-la-econ-ba/cla-economics-ba-scholarships-financial-aid)
+- [Mathematical Economics BA](https://www.temple.edu/academics/degree-programs/mathematical-economics-major-la-mecn-ba/cla-mathematical-economics-ba-scholarships)
+- [Economics MA](https://www.temple.edu/academics/degree-programs/economics-ma-la-econ-ma/cla-economics-ma-scholarships)
+- [Economics PhD](https://www.temple.edu/academics/schools-and-colleges/college-of-liberal-arts/cla-sociology-scholarships?p=1318)
