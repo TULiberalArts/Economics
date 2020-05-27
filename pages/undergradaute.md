@@ -12,7 +12,7 @@ keywords: 'undergraduate, accelerated degree, mathematical economics, honors, re
 # custom variables
 sidebar: sidebars/undergraduate.html
 ---
-Have a mind for macro and micro analyses? At Temple University, you can earn an economics degree that will teach you to think critically and logically about the economy. The College of Liberal Arts (CLA) has an [economics bachelors](#ba-in-economics) and a [mathematical economics bachelors](#ba-in-mathematical-economics) while the Fox School of Business has its own [economics major](#economics-major-in-the-fox-school-of-business-fox). Students can also get a head start on a master’s degree with the [4+1 program](#4-1-program-in-economics-ba-ma) enroll in [honors courses](#honors), explore [research opportunities](#research-opportunities), prepare for [graduate work](#prepare-for-graduate-work) or view more [undergraduate resources](#undergraduate-resources).
+Have a mind for macro and micro analyses? At Temple University, you can earn an economics degree that will teach you to think critically and logically about the economy. The College of Liberal Arts (CLA) has an [economics bachelors](#bachelor-of-arts-in-economics) and a [mathematical economics bachelors](#bachelor-of-arts-in-mathematical-economics) while the Fox School of Business has its own [economics major](#economics-major-in-the-fox-school-of-business-fox). Students can also get a head start on a master’s degree with the [4+1 program](#4-1-ba-ma-accelerated-degree-in-economics) enroll in [honors courses](#honors), explore [research opportunities](#research-opportunities), prepare for [graduate work](#prepare-for-graduate-work) or view more [undergraduate resources](#undergraduate-resources).
 
 ![Economics Wall Image]({{site.baseurl}}/media/resized Econ Wall image.jpg){:.responsive-img .img-right}
 ## Where Can a Major in Economics Take You?
@@ -22,20 +22,20 @@ A major problem that companies face is having to earn at least enough to cover t
 
 Similarly, in government, managers are required to achieve as much as they can with their limited budgets. And economic consulting firms bring specialized problem-solving skills that are beyond the capabilities of individual companies or government agencies.
 
-## BA in Economics
+## Bachelor of Arts in Economics
 The major in economics exposes a student to the economist’s way of thinking about social problems and behavior. The major helps a student understand the economic aspects of current events and public policy, and it’s a good preparation for careers in public policy, law and business. It also provides the essential background for study of economics and is designed for those who are planning for careers in economics, among other liberal arts fields as well as professional careers. Students acquire a general business background and get a  specialized exposure to economics.
 
-Learn More About the [BA in Economics](https://www.temple.edu/academics/degree-programs/economics-major-la-econ-ba)
+Learn More about the [BA in Economics](https://www.temple.edu/academics/degree-programs/economics-major-la-econ-ba)
 
-## BA in Mathematical Economics
+## Bachelor of Arts in Mathematical Economics
 The interdisciplinary mathematical economics program is a platform for systematic concentration in the mathematical approach to economics. This degree is offered in both CLA and the College of Science and Technology-CST. The mathematical economics curriculum provides a broad selection of courses that cover all important areas of economics and the mathematical tools required for a critical, deep mastery of these areas. This program is especially recommended for those students who intend to pursue graduate studies in economics.
 
-Learn More About the [BA in Mathematical Economics](https://www.temple.edu/academics/degree-programs/mathematical-economics-major-la-mecn-ba)
+Learn More about the [BA in Mathematical Economics](https://www.temple.edu/academics/degree-programs/mathematical-economics-major-la-mecn-ba)
  
 ## Economics Major in the Fox School of Business (Fox)
 The BBA major is offered to students who want to acquire a general business background in addition to specialized exposure to economics. Please review the [Three-Year BBA Grid](https://liberalarts.temple.edu/sites/liberalarts/files/3yearBBAinEconomics.pdf).
 
-## 4+1 Program in Economics: BA/MA
+## 4+1 BA/MA Accelerated Degree in Economics
 The Economics Department’s 4+1 program allows talented, motivated students to pursue an MA degree during their junior and senior years and to complete the degree with just one additional year of study. This program is ideal for students with strong economics and math backgrounds to hone their skills before applying to a top-tier PhD program or applying for jobs requiring advanced economic skills. Please review the [Grid for the Five-Year 4+1 BA/MA](https://liberalarts.temple.edu/sites/liberalarts/files/Economics_BA_and_MA_41_Program-Annette.pdf).
 
 To learn more about this accelerated degree offering, please visit the [Economics Accelerated Degree Admissions](https://liberalarts.temple.edu/ba-economics-ma-economics) page to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
