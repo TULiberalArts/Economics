@@ -12,14 +12,15 @@ keywords: 'MA, Phd, economics, analysis, admissions, resources'
 # custom variables
 sidebar: sidebars/graduate.html
 ---
-Earn an economics [masters degree](#ma-in-economics) or [doctoral degree](#phd-in-economics) as a full-time or part-time student at the College of Liberal Arts. Not ready to apply just yet? Find all the answers you need about the [admissions process](#admissions-process) and review our [graduate resources](#graduate-resources).
+Earn an economics [masters degree](#master-of-arts-in-economics) or [doctoral degree](#phd-in-economics) as a full-time or part-time student at the College of Liberal Arts. Not ready to apply just yet? Find all the answers you need about the [admissions process](#admissions-process) and review our [graduate resources](#graduate-resources).
 
 ## Degrees and Programs of Study
 ![Economics Books]({{site.baseurl}}/media/economics-books.png){:.responsive-img .img-right}
 The Department of Economics offers full-time and part-time graduate programs leading to master’s (MA) and doctoral (PhD) degrees. After completing the MA program, students have the technical skills required for economic analysis of business and public policy. After completing the PhD program, students are able to conduct original research and advance knowledge in the field.
 
-## MA in Economics
+## Master of Arts in Economics
 Economics master’s degree students can focus on a specific area of economics or follow a general course of study. Potential areas of specialization include: econometrics, financial economics, health economics, international monetary economics and labor economics. 
+
 The program gives students an opportunity to specialize in one of two areas: (a) general economics or (b) applied economics and financial markets. The program is primarily dedicated to producing well-trained economics researchers and managers. Many students go on to enter PhD programs.
 
 Learn more about the [MA in Economics](https://www.temple.edu/academics/degree-programs/economics-ma-la-econ-ma)
