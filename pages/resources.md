@@ -26,7 +26,7 @@ The following [PDF](https://liberalarts.temple.edu/sites/liberalarts/files/Econo
 ## Opportunities and Compensation in Economics
 
 ### Earnings of Economics Majors in Perspective
-Your undergraduate major has a huge influence on your career. Associate Professor [Douglas Webber](https://liberalarts.temple.edu/academics/faculty/webber-douglas) has recently published research on the earnings of about 80 different college majors. Data from the 2010 U.S. Census tells us that economics majors have some of the best compensated careers. The table below shows a comparison of compensation data for a few selected majors to put this claim in perspective. The data comes from the Wall Street Journal and is based on the report [What’s it Worth](http://cew.georgetown.edu/whatsitworth) by the Georgetown University Center on Education and the Workforce.
+Your undergraduate major has a huge influence on your career. Associate Professor [Douglas Webber](https://liberalarts.temple.edu/academics/faculty/webber-douglas) has recently published research on the earnings of about 80 different college majors. Data from the 2010 U.S. Census tells us that economics majors have some of the best compensated careers. The table below shows a comparison of compensation data for a few selected majors to put this claim in perspective. The data comes from the Wall Street Journal and is based on the report [What’s it Worth](https://cew.georgetown.edu/cew-reports/whats-it-worth-the-economic-value-of-college-majors/) by the Georgetown University Center on Education and the Workforce.
 
 Major field unemployment, first 25% earnings, median earnings, top 75% earnings.
 
