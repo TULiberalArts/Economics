@@ -12,8 +12,6 @@ keywords: 'undergraduate, accelerated degree, mathematical economics, honors, re
 # custom variables
 sidebar: sidebars/undergraduate.html
 ---
-___
-
 Have a mind for macro and micro analyses? At Temple University, you can earn an economics degree that will teach you to think critically and logically about the economy. The College of Liberal Arts (CLA) has an [economics bachelors](#bachelor-of-arts-in-economics) and a [mathematical economics bachelors](#bachelor-of-arts-in-mathematical-economics) while the Fox School of Business has its own [economics major](#economics-major-in-the-fox-school-of-business-fox). Students can also get a head start on a master’s degree with the [4+1 program](#4-1-ba-ma-accelerated-degree-in-economics) enroll in [honors courses](#honors), explore [research opportunities](#research-opportunities), prepare for [graduate work](#prepare-for-graduate-work) or view more [undergraduate resources](#undergraduate-resources).
 
 ![Economics Wall Image]({{site.baseurl}}/media/resized Econ Wall image.jpg){:.responsive-img .img-right}
