@@ -11,8 +11,6 @@ description: >-
 keywords: 'internship opportunities, awards'
 # custom variables
 ---
-___
-
 ## Economics Internship Opportunities
 The College of Liberal Arts recommends all students pursue internships to gain experiential learning that rounds out the skills and knowledge they acquire in the classroom. Economics students have access to a wealth of exciting internship opportunities in and around Philadelphia that will benefit them greatly in their careers.
 
