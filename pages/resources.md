@@ -11,8 +11,6 @@ description: >-
 keywords: 'working papers, economic data, earnings, field salary range, support'
 # custom variables
 ---
-___
-
 Think an economics degree from Temple University might be right for you but aren’t quite ready to apply yet? Take a look at our working paper series, the [Center for Competitive Governments](#center-for-competitive-governments), [economic data websites](#econoimic-data-websites-and-more), available [opportunities and compensation in the field](#field-tarting-pay-and-median-mid-career-pay) and find out how you can [support the Department of Economics](#support-the-department-of-economics).
 
 ## Working Paper Series
