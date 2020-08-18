@@ -11,8 +11,6 @@ description: >-
 keywords: 'careers, alumni, treasury, employment, apply, visit, transfer'
 # custom variables
 ---
-___
-
 An economics degree from Temple University will prepare you for a range of [career opportunities](#careers) —check out some of the exciting jobs our [alumni](#economics-alumni) have landed! Come [visit](#visit-us) us today, view our application deadlines and [apply](#apply) when you’re ready to [make your declaration](#make-your-declaration) at the College of Liberal Arts.   
 
 ## Excellent Preparation for a Wide Range of Careers
