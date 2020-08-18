@@ -12,6 +12,8 @@ keywords: 'MA, Phd, economics, analysis, admissions, resources'
 # custom variables
 sidebar: sidebars/graduate.html
 ---
+___
+
 Earn an economics [masters degree](#master-of-arts-in-economics) or [doctoral degree](#phd-in-economics) as a full-time or part-time student at the College of Liberal Arts. Not ready to apply just yet? Find all the answers you need about the [admissions process](#admissions-process) and review our [graduate resources](#graduate-resources).
 
 ## Degrees and Programs of Study
