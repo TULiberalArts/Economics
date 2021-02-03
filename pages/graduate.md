@@ -18,6 +18,8 @@ Earn an economics [masters degree](#master-of-arts-in-economics) or [doctoral de
 ![Economics Books]({{site.baseurl}}/media/economics-books.png){:.responsive-img .img-right}
 The Department of Economics offers full-time and part-time graduate programs leading to master’s (MA) and doctoral (PhD) degrees. After completing the MA program, students have the technical skills required for economic analysis of business and public policy. After completing the PhD program, students are able to conduct original research and advance knowledge in the field.
 
+**_Economics graduate programs are currently in abeyance as the department updates the structure of these programs. Please check back at a future date for more details._**
+
 ## Master of Arts in Economics
 Economics master’s degree students can focus on a specific area of economics or follow a general course of study. Potential areas of specialization include: econometrics, financial economics, health economics, international monetary economics and labor economics. 
 
