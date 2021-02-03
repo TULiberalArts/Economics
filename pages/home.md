@@ -32,7 +32,10 @@ ___
  - [Minor in Economics](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/minor-economics/)
  - [Management Career Certificate](https://www.temple.edu/academics/degree-programs/economics---management-career-certificate-undergraduate-la-ecmg-cr2%2B)
  - [Political Economy Certificate](https://www.temple.edu/academics/degree-programs/political-economy-certificate-undergraduate-la-pole-cert)
- - [4+1 BA and MA in Economics](https://develop.cla.temple.edu/economics/undergraduate/#41-program-in-economics-bama)
+ - [4+1 BA and MA in Economics](https://develop.cla.temple.edu/economics/undergraduate/#41-program-in-economics-bama)<br>
+
+**_Economics graduate programs are currently in abeyance as the department updates the structure of these programs. Please check back at a future date for more details._**
+
  - [MA in Economics](https://www.temple.edu/academics/degree-programs/economics-ma-la-econ-ma)
  - [PhD in Economics](https://www.temple.edu/academics/degree-programs/economics-phd-la-econ-phd)
 
