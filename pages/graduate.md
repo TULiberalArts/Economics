@@ -47,11 +47,6 @@ Two of our PhD candidates are on the 2020 job market. Here is brief information 
 
 ___
 
-## Admissions Process
-Please visit the appropriate page for application instructions:
-- [Economics MA Admissions](https://www.temple.edu/academics/degree-programs/economics-ma-la-econ-ma/cla-economics-ma-admissions)
-- [Economics PhD Admissions](https://www.temple.edu/academics/degree-programs/economics-phd-la-econ-phd/cla-economics-phd-admissions)
-
 ## Graduate Resources
 - [Graduate Program FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/FAQs.pdf)- If you still have questions, please [contact us](mailto:claecon@temple.edu).
 - [Graduate Student Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Economics_MA_Handbook_0.pdf)
