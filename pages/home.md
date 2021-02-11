@@ -36,8 +36,8 @@ ___
 
 **_Economics graduate programs are currently in abeyance as the department updates the structure of these programs. Please check back at a future date for more details._**
 
- - [MA in Economics](https://www.temple.edu/academics/degree-programs/economics-ma-la-econ-ma)
- - [PhD in Economics](https://www.temple.edu/academics/degree-programs/economics-phd-la-econ-phd)
+ - MA in Economics
+ - PhD in Economics
 
  ___
 
