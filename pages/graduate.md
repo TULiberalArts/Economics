@@ -25,12 +25,8 @@ Economics master’s degree students can focus on a specific area of economics o
 
 The program gives students an opportunity to specialize in one of two areas: (a) general economics or (b) applied economics and financial markets. The program is primarily dedicated to producing well-trained economics researchers and managers. Many students go on to enter PhD programs.
 
-Learn more about the [MA in Economics](https://www.temple.edu/academics/degree-programs/economics-ma-la-econ-ma)
-
 ## PhD in Economics
 The economics PhD prepares students for university teaching and research and for positions as economists in government, business and industry. The program emphasizes the development of advanced research and scholarship skills in applied economics areas. To accomplish this, the program has fields in econometrics, economic development, industrial organization, international economics, financial economics and labor economics. The program has a strong track record in placing its graduates in desirable positions.
-
-Learn more about the [PhD in Economics](https://www.temple.edu/academics/degree-programs/economics-phd-la-econ-phd)
 
 ### Job Market Candidates
 Two of our PhD candidates are on the 2020 job market. Here is brief information about each:
