@@ -42,8 +42,8 @@ To learn more about this accelerated degree offering, please visit the [Economic
 
 ## Honors
 The Economics Department offers honors versions of two introductory economics courses:
-- [Economics 1901-Honors Macroeconomic Principles](http://bulletin.temple.edu/search/?P=ECON%201901)
-- [Economics 1902-Honors Microeconomic Principles](http://bulletin.temple.edu/search/?P=ECON%201902)
+- [Economics 1901-Honors Macroeconomic Principles](https://bulletin.temple.edu/search/?search=ECON+1901)
+- [Economics 1902-Honors Microeconomic Principles](https://bulletin.temple.edu/search/?search=ECON+1902)
 
 ## Research Opportunities
 Students seeking research experience may work directly  with specific faculty members or through the Center for  Regional Economics at Temple. Student interns perform research relating to economic issues in the Delaware Valley under the supervision of Temple professors and professional economists. Please visit the [research and facilities page](https://www.temple.edu/academics/degree-programs/economics-major-la-econ-ba/cla-economics-ba-research-facilities) for information. 
